@@ -10,7 +10,9 @@ from requests.exceptions import ConnectionError
 import requests
 from bs4 import BeautifulSoup
 
-
+PUBMED_RESULTS_DIR = '../data/pubmed_results'
+DATA_DIR = '../data'
+    
 def fetch_num_citations(url):
     time.sleep(1)
     page = requests.get(url)
@@ -200,11 +202,11 @@ def scrape_pubmed_results(query):
             pass
     
     df_pubmed_articles = pd.DataFrame(pubmed_articles)
-    df_pubmed_articles.to_csv(f'results/{query}.csv', index=False)
+    df_pubmed_articles.to_csv(f'{PUBMED_RESULTS_DIR}/{query}.csv', index=False)
     
 
 def get_search_term_mapping():
-    with open('who_search_terms_mapping.pkl', 'rb') as handle:
+    with open(f'{DATA_DIR}/who_search_terms_mapping.pkl', 'rb') as handle:
         out_search_space = pickle.load(handle)
         return out_search_space
 
@@ -218,11 +220,11 @@ for key in search_space:
     key = re.sub(r'\s+', '+', key)
     print(key, '--->', vals)
     
-    if not exists(f'results/{key}.csv'):
+    if not exists(f'{PUBMED_RESULTS_DIR}/{key}.csv'):
         print('\tscrape=', key)
         scrape_pubmed_results(key)
     for val in vals:
-        if not exists(f'results/{val}.csv'):
+        if not exists(f'{PUBMED_RESULTS_DIR}/{val}.csv'):
             print('\tscrape=', val)
             scrape_pubmed_results(val)
         
