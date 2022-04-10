@@ -5,6 +5,7 @@ import time
 from os.path import exists
 import pickle
 from requests.exceptions import ConnectionError
+import logging
 
 # Import libraries
 import requests
@@ -12,7 +13,9 @@ from bs4 import BeautifulSoup
 
 PUBMED_RESULTS_DIR = '../data/pubmed_results'
 DATA_DIR = '../data'
-    
+
+logging.basicConfig(filename='process.log', encoding='utf-8', level=logging.DEBUG)
+
 def fetch_num_citations(url):
     time.sleep(1)
     page = requests.get(url)
@@ -41,8 +44,8 @@ def scrape_pubmed_results(query):
     while(True):
         pageno += 1
         url = f'https://pubmed.ncbi.nlm.nih.gov/?term={query}&filter=pubt.clinicalconference&filter=pubt.clinicalstudy&filter=pubt.clinicaltrial&filter=pubt.clinicaltrialprotocol&filter=pubt.clinicaltrialphasei&filter=pubt.clinicaltrialphaseii&filter=pubt.clinicaltrialphaseiii&filter=pubt.clinicaltrialphaseiv&filter=pubt.comparativestudy&filter=pubt.controlledclinicaltrial&filter=pubt.editorial&filter=pubt.meta-analysis&filter=pubt.observationalstudy&filter=pubt.practiceguideline&filter=pubt.pragmaticclinicaltrial&filter=pubt.randomizedcontrolledtrial&filter=pubt.researchsupportamericanrecoveryandreinvestmentact&filter=pubt.researchsupportnihextramural&filter=pubt.researchsupportnihintramural&filter=pubt.researchsupportnonusgovt&filter=pubt.researchsupportusgovtnonphs&filter=pubt.researchsupportusgovtphs&filter=pubt.researchsupportusgovernment&filter=pubt.validationstudy&show_snippets=off&size=200&page={pageno}&format=pubmed'
-        #print(f'\npage={pageno},url={url}')
-        #print(f'page={pageno}')
+        #logging.info(f'\npage={pageno},url={url}')
+        #logging.info(f'page={pageno}')
         NUM_TRIES = 3
         while NUM_TRIES > 0:
             try:
@@ -50,13 +53,13 @@ def scrape_pubmed_results(query):
                 page = requests.get(url)
                 break
             except ConnectionError as e:    # This is the correct syntax
-                print(f'RETRY AGAIN WITH HIGHER SLEEP, FAILED QUERY={query}, PAGE={pageno}')
+                logging.warning(f'RETRY AGAIN WITH HIGHER SLEEP, FAILED QUERY={query}, PAGE={pageno}')
                 SLEEP_TIME += 5
                 NUM_TRIES -= 1
 
         if NUM_TRIES == 0:
             # time to move on
-            print(f'DONE WITH RETRIES, FAILED QUERY={query}, PAGE={pageno}')
+            logging.error(f'DONE WITH RETRIES, FAILED QUERY={query}, PAGE={pageno}')
             break
             
 
@@ -72,7 +75,7 @@ def scrape_pubmed_results(query):
         for pubmed_results in relevant_pubmed_html:
             break
         lines = pubmed_results.split('\r\n')
-        #print(f'lines_length={len(lines)}')
+        #logging.info(f'lines_length={len(lines)}')
 
         article = None
         current_tag = ''
@@ -169,9 +172,9 @@ def scrape_pubmed_results(query):
                                 'initial_name':'', 
                                 'affiliations':''
                             })
-                        #print('1\t', article['authors'][-1]['affiliations'])
+                        #logging.info('1\t', article['authors'][-1]['affiliations'])
                         article['authors'][-1]['affiliations'] = re.sub(r'^AD\s*\-\s*', '', line).strip()
-                        #print('2\t', article['authors'][-1]['affiliations'])
+                        #logging.info('2\t', article['authors'][-1]['affiliations'])
                         current_tag = 'affiliations'
                 elif re.search(r'^[A-Z]+\s*\-\s+', line):
                     # some tag that we don't care about so ignore,  and move on
@@ -194,10 +197,10 @@ def scrape_pubmed_results(query):
                     article['authors'][-1]['affiliations'] += ' '
                     article['authors'][-1]['affiliations'] += re.sub(r'^AD\s+\-\s+', '', line).strip()
         except Exception as inst:
-            print(f'\tEXCEPTION: {line}')
-            print(inst)
-            print(type(inst))    # the exception instance
-            print(inst.args)     # arguments stored in .args
+            logging.error(f'\tEXCEPTION: {line}')
+            logging.error(inst)
+            logging.error(type(inst))    # the exception instance
+            logging.error(inst.args)     # arguments stored in .args
             #raise inst
             pass
     
@@ -218,14 +221,14 @@ for key in search_space:
     vals = [re.sub(r'\s+', '+', val) for val in vals]
     key = re.sub(r'\s*,\s*|\s*&\s*', ' ', key)
     key = re.sub(r'\s+', '+', key)
-    print(key, '--->', vals)
+    #logging.info(key, '--->', vals)
     
     if not exists(f'{PUBMED_RESULTS_DIR}/{key}.csv'):
-        print('\tscrape=', key)
+        logging.info('\tscrape=', key)
         scrape_pubmed_results(key)
     for val in vals:
         if not exists(f'{PUBMED_RESULTS_DIR}/{val}.csv'):
-            print('\tscrape=', val)
+            logging.info('\tscrape=', val)
             scrape_pubmed_results(val)
         
 
