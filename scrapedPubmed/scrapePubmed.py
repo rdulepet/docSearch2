@@ -53,13 +53,13 @@ def scrape_pubmed_results(query):
                 page = requests.get(url)
                 break
             except ConnectionError as e:    # This is the correct syntax
-                logging.warning(f'RETRY AGAIN WITH HIGHER SLEEP, FAILED QUERY={query}, PAGE={pageno}')
+                logging.warning('RETRY AGAIN WITH HIGHER SLEEP, FAILED QUERY=%s, PAGE=%d', query, pageno)
                 SLEEP_TIME += 5
                 NUM_TRIES -= 1
 
         if NUM_TRIES == 0:
             # time to move on
-            logging.error(f'DONE WITH RETRIES, FAILED QUERY={query}, PAGE={pageno}')
+            logging.error('DONE WITH RETRIES, FAILED QUERY=%s, PAGE=%d', query, pageno)
             break
             
 
@@ -197,7 +197,7 @@ def scrape_pubmed_results(query):
                     article['authors'][-1]['affiliations'] += ' '
                     article['authors'][-1]['affiliations'] += re.sub(r'^AD\s+\-\s+', '', line).strip()
         except Exception as inst:
-            logging.error(f'\tEXCEPTION: {line}')
+            logging.error('EXCEPTION: %s', line)
             logging.error(inst)
             logging.error(type(inst))    # the exception instance
             logging.error(inst.args)     # arguments stored in .args
@@ -224,11 +224,11 @@ for key in search_space:
     #logging.info(key, '--->', vals)
     
     if not exists(f'{PUBMED_RESULTS_DIR}/{key}.csv'):
-        logging.info('\tscrape=', key)
+        logging.info('scrape=%s', key)
         scrape_pubmed_results(key)
     for val in vals:
         if not exists(f'{PUBMED_RESULTS_DIR}/{val}.csv'):
-            logging.info('\tscrape=', val)
+            logging.info('scrape=%s', val)
             scrape_pubmed_results(val)
         
 
