@@ -1,0 +1,350 @@
+3/9/22, 9:43 PM                                                    BlueBooksOnline
+
+
+    Skin tumours
+
+    1. Foreword                                                                                        
+
+                WHO Classification of Tumours: Editors (/paragraphcontent/41/291)
+                Introduction to website version (/paragraphcontent/41/290)
+
+
+
+    2. Keratinocytic/epidermal tumours                                                                 
+
+                Introduction (/paragraphcontent/41/9)
+                Carcinomas
+                    Basal cell carcinoma (/chaptercontent/41/13)
+                       Nodular basal cell carcinoma (/chaptercontent/41/14)
+                       Superficial basal cell carcinoma (/chaptercontent/41/15)
+                       Micronodular basal cell carcinoma (/chaptercontent/41/16)
+                       Infiltrating basal cell carcinoma (/chaptercontent/41/17)
+                       Sclerosing/morphoeic basal cell carcinoma (/chaptercontent/41/18)
+                       Basosquamous carcinoma (/chaptercontent/41/19)
+                       Pigmented basal cell carcinoma (/chaptercontent/41/20)
+                       Basal cell carcinoma with sarcomatoid differentiation (/chaptercontent/41/21)
+                       Basal cell carcinoma with adnexal differentiation (/chaptercontent/41/22)
+                       Fibroepithelial basal cell carcinoma (/chaptercontent/41/23)
+                    Squamous cell carcinoma
+                       Squamous cell carcinoma (/chaptercontent/41/25)
+                       Keratoacanthoma (/chaptercontent/41/26)
+                       Acantholytic squamous cell carcinoma (/chaptercontent/41/27)
+                       Spindle cell squamous cell carcinoma (/chaptercontent/41/28)
+                       Verrucous squamous cell carcinoma (/chaptercontent/41/29)
+                       Adenosquamous carcinoma (/chaptercontent/41/30)
+                       Clear cell squamous cell carcinoma (/chaptercontent/41/31)
+                       Other (uncommon) variants (/chaptercontent/41/32)
+                    Squamous cell carcinoma in situ (Bowen disease) (/chaptercontent/41/33)
+                    Merkel cell carcinoma (/chaptercontent/41/34)
+                Carcinoma precursors and benign simulants
+                    Premalignant keratoses
+                       Actinic keratosis (/chaptercontent/41/37)
+                       Arsenical keratosis (/chaptercontent/41/38)
+                       PUVA keratosis (/chaptercontent/41/39)
+                    Verrucae
+                       Verruca vulgaris (/chaptercontent/41/41)
+                       Verruca plantaris (/chaptercontent/41/42)
+                       Verruca plana (/chaptercontent/41/43)
+                    Benign acanthomas/keratoses
+                       Seborrhoeic keratosis (/chaptercontent/41/45)
+                       Solar lentigo (/chaptercontent/41/46)
+                       Lichen planus–like keratosis (/chaptercontent/41/47)
+                       Clear cell acanthoma (/chaptercontent/41/48)
+https://tumourclassification.iarc.who.int/chapters/41                                                      1/7
+3/9/22, 9:43 PM                                                      BlueBooksOnline
+
+                          Large cell acanthoma (/chaptercontent/41/49)
+
+                          Warty dyskeratoma (/chaptercontent/41/50)
+                          Other benign keratoses (/chaptercontent/41/51)
+
+
+
+    3. Melanocytic tumours                                                                               
+
+                Introduction
+                    Melanocytic tumour classification and the pathway concept of melanoma pathogenesis
+                    (/paragraphcontent/41/54)
+                    Genomic landscape of melanoma (/paragraphcontent/41/55)
+                Melanocytic tumours in intermittently sun-exposed skin
+                    Low-CSD melanoma (superficial spreading melanoma) (/chaptercontent/41/57)
+                    Simple lentigo and lentiginous melanocytic naevus (/chaptercontent/41/58)
+                    Junctional, compound, and dermal naevi (/chaptercontent/41/59)
+                    Dysplastic naevus (/chaptercontent/41/60)
+                    Naevus spilus (/chaptercontent/41/61)
+                    Special-site naevi (of the breast, axilla, scalp, and ear) (/chaptercontent/41/62)
+                    Halo naevus (/chaptercontent/41/63)
+                    Meyerson naevus (/chaptercontent/41/64)
+                    Recurrent naevus (/chaptercontent/41/65)
+                    Deep penetrating naevus and melanocytoma (/chaptercontent/41/66)
+                    Pigmented epithelioid melanocytoma (/chaptercontent/41/67)
+                    Combined naevus, including combined BAP1-inactivated naevus / melanocytoma
+                    (/chaptercontent/41/68)
+                Melanocytic tumours in chronically sun-exposed skin
+                    Lentigo maligna melanoma (/chaptercontent/41/70)
+                    Desmoplastic melanoma (/chaptercontent/41/71)
+                Spitz tumours
+                    Malignant Spitz tumour (Spitz melanoma) (/chaptercontent/41/73)
+                    Spitz naevus (/chaptercontent/41/74)
+                    Pigmented spindle cell naevus (Reed naevus) (/chaptercontent/41/75)
+                Melanocytic tumours in acral skin
+                    Acral melanoma (/chaptercontent/41/77)
+                    Acral naevus (/chaptercontent/41/78)
+                Genital and mucosal melanocytic tumours
+                    Mucosal melanomas (genital, oral, sinonasal) (/chaptercontent/41/80)
+                    Genital naevus (/chaptercontent/41/81)
+                Melanocytic tumours arising in blue naevus
+                    Melanoma arising in blue naevus (/chaptercontent/41/83)
+                    Blue naevus and cellular blue naevus (/chaptercontent/41/84)
+                    Mongolian spot (/chaptercontent/41/85)
+                    Naevus of Ito and naevus of Ota (/chaptercontent/41/86)
+                Melanocytic tumours arising in congenital naevi
+                    Melanoma arising in giant congenital naevus (/chaptercontent/41/88)
+                    Congenital melanocytic naevus (/chaptercontent/41/89)
+                    Proliferative nodules in congenital melanocytic naevus (/chaptercontent/41/90)
+                Ocular melanocytic tumours
+https://tumourclassification.iarc.who.int/chapters/41                                                        2/7
+3/9/22, 9:43 PM                                                   BlueBooksOnline
+
+                  Uveal melanoma (/chaptercontent/41/92)
+                  Conjunctival melanoma (/chaptercontent/41/93)
+                  Conjunctival melanocytic intraepithelial neoplasia/primary acquired melanosis
+                  (/chaptercontent/41/94)
+                  Conjunctival naevus (/chaptercontent/41/95)
+                Nodular, naevoid, and metastatic melanomas
+                  Nodular melanoma (/chaptercontent/41/97)
+                  Naevoid melanoma (/chaptercontent/41/98)
+                  Metastatic melanoma (/chaptercontent/41/99)
+
+
+
+    4. Appendageal tumours                                                                             
+
+                Introduction (/paragraphcontent/41/101)
+                Malignant tumours with apocrine and eccrine differentiation
+                    Adnexal adenocarcinoma not otherwise specified (/chaptercontent/41/103)
+                    Microcystic adnexal carcinoma (/chaptercontent/41/104)
+                    Porocarcinoma (/chaptercontent/41/105)
+                    Malignant neoplasms arising from spiradenoma, cylindroma, or spiradenocylindroma
+                    (/chaptercontent/41/106)
+                    Malignant mixed tumour (/chaptercontent/41/107)
+                    Hidradenocarcinoma (/chaptercontent/41/108)
+                    Mucinous carcinoma (/chaptercontent/41/109)
+                    Endocrine mucin-producing sweat gland carcinoma (/chaptercontent/41/110)
+                    Digital papillary adenocarcinoma (/chaptercontent/41/111)
+                    Adenoid cystic carcinoma (/chaptercontent/41/112)
+                    Apocrine carcinoma (/chaptercontent/41/113)
+                    Squamoid eccrine ductal carcinoma (/chaptercontent/41/114)
+                    Syringocystadenocarcinoma papilliferum (/chaptercontent/41/115)
+                    Secretory carcinoma (/chaptercontent/41/116)
+                    Cribriform carcinoma (/chaptercontent/41/117)
+                    Signet-ring cell/histiocytoid carcinoma (/chaptercontent/41/118)
+                Benign tumours with apocrine and eccrine differentiation
+                    Hidrocystoma/cystadenoma (/chaptercontent/41/120)
+                    Syringoma (/chaptercontent/41/121)
+                    Poroma (/chaptercontent/41/122)
+                    Syringofibroadenoma (/chaptercontent/41/123)
+                    Hidradenoma (/chaptercontent/41/124)
+                    Spiradenoma (/chaptercontent/41/125)
+                    Cylindroma (/chaptercontent/41/126)
+                    Tubular adenoma (/chaptercontent/41/127)
+                    Syringocystadenoma papilliferum (/chaptercontent/41/128)
+                    Mixed tumour (/chaptercontent/41/129)
+                    Myoepithelioma (/chaptercontent/41/130)
+                Malignant tumours with follicular differentiation
+                    Pilomatrical carcinoma (/chaptercontent/41/132)
+                    Proliferating trichilemmal tumour (/chaptercontent/41/133)
+                    Trichoblastic carcinoma/carcinosarcoma (/chaptercontent/41/134)
+                    Trichilemmal carcinoma (/chaptercontent/41/135)
+https://tumourclassification.iarc.who.int/chapters/41                                                      3/7
+3/9/22, 9:43 PM                                                  BlueBooksOnline
+
+                Benign tumours with follicular differentiation
+                   Trichoblastoma (/chaptercontent/41/137)
+                   Pilomatricoma (/chaptercontent/41/138)
+                   Trichilemmoma (/chaptercontent/41/139)
+                   Trichofolliculoma (/chaptercontent/41/140)
+                   Pilar sheath acanthoma (/chaptercontent/41/141)
+                   Tumour of the follicular infundibulum (/chaptercontent/41/142)
+                   Melanocytic matricoma (/chaptercontent/41/143)
+                   Spindle cell–predominant trichodiscoma (/chaptercontent/41/144)
+                Tumours with sebaceous differentiation
+                   Sebaceous carcinoma (/chaptercontent/41/146)
+                   Sebaceous adenoma (/chaptercontent/41/147)
+                   Sebaceoma (/chaptercontent/41/148)
+                Site-specific tumours
+                   Mammary Paget disease (/chaptercontent/41/150)
+                   Extramammary Paget disease (/chaptercontent/41/151)
+                   Adenocarcinoma of anogenital mammary-like glands (/chaptercontent/41/152)
+                   Hidradenoma papilliferum (/chaptercontent/41/153)
+                   Fibroadenoma and phyllodes tumour of anogenital mammary-like glands (/chaptercontent/41/154)
+
+
+
+    5. Tumours of haematopoietic and lymphoid origin                                                                   
+
+                Introduction (/paragraphcontent/41/156)
+                Mycosis fungoides (/chaptercontent/41/157)
+                Variants of mycosis fungoides (/paragraphcontent/41/158)
+                    Folliculotropic mycosis fungoides (/chaptercontent/41/159)
+                    Granulomatous slack skin (/chaptercontent/41/160)
+                    Pagetoid reticulosis (/chaptercontent/41/161)
+                Sezary syndrome (/chaptercontent/41/162)
+                Primary cutaneous CD30+ T-cell lympho proliferative disorders (/paragraphcontent/41/163)
+                    Lymphomatoid papulosis (/chaptercontent/41/164)
+                    Primary cutaneous anaplastic large cell lymphoma (/chaptercontent/41/165)
+                Cutaneous adult T-cell leukaemia/lymphoma (/chaptercontent/41/166)
+                Subcutaneous panniculitis-like T-cell lymphoma (/chaptercontent/41/167)
+                Cutaneous manifestations of chronic active EBV infection (/chaptercontent/41/168)
+                Extranodal NK/T-cell lymphoma, nasal type (/chaptercontent/41/169)
+                Primary cutaneous peripheral T-cell lymphomas, rare subtypes (/paragraphcontent/41/170)
+                    Primary cutaneous gamma-delta T-cell lymphoma (/chaptercontent/41/171)
+                    Primary cutaneous CD8+ aggressive epidermotropic cytotoxic T-cell lymphoma
+                    (/chaptercontent/41/172)
+                    Primary cutaneous acral CD8+ T-cell lymphoma (/chaptercontent/41/173)
+                    Primary cutaneous CD4+ small/medium T-cell lymphoproliferative disorder (/chaptercontent/41/174)
+                Secondary cutaneous involvement in T-cell lymphomas and leukaemias
+                (/paragraphcontent/41/175)
+                    Systemic anaplastic large cell lymphoma (/paragraphcontent/41/176)
+                    Angioimmunoblastic T-cell lymphoma (/chaptercontent/41/177)
+                    T-cell prolymphocytic leukaemia (/chaptercontent/41/178)
+                Primary cutaneous marginal zone (MALT) lymphoma (/chaptercontent/41/179)
+https://tumourclassification.iarc.who.int/chapters/41                                                                      4/7
+3/9/22, 9:43 PM                                                    BlueBooksOnline
+
+                Primary cutaneous follicle centre lymphoma (/chaptercontent/41/180)
+                Primary cutaneous diffuse large B-cell lymphoma, leg type (/chaptercontent/41/181)
+                Intravascular large B-cell lymphoma (/chaptercontent/41/182)
+                EBV-positive mucocutaneous ulcer (/chaptercontent/41/183)
+                Lymphomatoid granulomatosis (/chaptercontent/41/184)
+                Cutaneous involvement in primarily extracutaneous B-cell lymphomas and leukaemias
+                (/paragraphcontent/41/185)
+                    Mantle cell lymphoma (/chaptercontent/41/186)
+                    Burkitt lymphoma (/chaptercontent/41/187)
+                    Chronic lymphocytic leukaemia/small lymphocytic lymphoma (/chaptercontent/41/188)
+                T-lymphoblastic and B-lymphoblastic leukaemia/lymphoma (/chaptercontent/41/189)
+                Blastic plasmacytoid dendritic cell neoplasm (/chaptercontent/41/190)
+                Cutaneous involvement in myeloid leukaemia (/chaptercontent/41/191)
+                Cutaneous mastocytosis (/chaptercontent/41/192)
+                Introduction to histiocytic and dendritic cell neoplasms (/paragraphcontent/41/193)
+                Langerhans cell histiocytosis (/chaptercontent/41/194)
+                Indeterminate cell histiocytosis/indeterminate dendritic cell tumour (/chaptercontent/41/195)
+                Rosai-Dorfman disease (/chaptercontent/41/196)
+                Juvenile xanthogranuloma (/chaptercontent/41/197)
+                Erdheim–Chester disease (/chaptercontent/41/198)
+                Reticulohistiocytosis (/chaptercontent/41/199)
+
+
+
+    6. Soft tissue tumours                                                                                      
+
+                Introduction (/paragraphcontent/41/201)
+                Adipocytic tumours
+                    Atypical lipomatous tumour (/chaptercontent/41/203)
+                    Pleomorphic liposarcoma (/chaptercontent/41/204)
+                    Lipoma (/chaptercontent/41/205)
+                    Spindle cell/pleomorphic lipoma (/chaptercontent/41/206)
+                    Angiolipoma (/chaptercontent/41/207)
+                    Naevus lipomatosus superficialis (/chaptercontent/41/208)
+                Fibroblastic, myofibroblastic, and fibrohistiocytic tumours
+                    Myxoinflammatory fibroblastic sarcoma (/chaptercontent/41/210)
+                    Dermatofibrosarcoma protuberans and variants (/chaptercontent/41/211)
+                    Plexiform fibrohistiocytic tumour (/chaptercontent/41/212)
+                    Superficial fibromatosis (/chaptercontent/41/213)
+                    Dermatofibroma (fibrous histiocytoma) and variants (/chaptercontent/41/214)
+                    Epithelioid fibrous histiocytoma (/chaptercontent/41/215)
+                    Fibromas
+                       Fibroma of tendon sheath (/chaptercontent/41/217)
+                       Calcifying aponeurotic fibroma (/chaptercontent/41/218)
+                       Sclerotic fibroma (/chaptercontent/41/219)
+                       Nuchal-type fibroma (/chaptercontent/41/220)
+                       Gardner fibroma (/chaptercontent/41/221)
+                       Pleomorphic fibroma (/chaptercontent/41/222)
+                       Elastofibroma (/chaptercontent/41/223)
+                       Collagenous fibroma (/chaptercontent/41/224)
+https://tumourclassification.iarc.who.int/chapters/41                                                               5/7
+3/9/22, 9:43 PM                                                BlueBooksOnline
+
+                   Superficial acral fibromyxoma (/chaptercontent/41/225)
+                   Cutaneous myxoma (/chaptercontent/41/226)
+                   Dermatomyofibroma (/chaptercontent/41/227)
+                   Myofibroma and myofibromatosis (/chaptercontent/41/228)
+                   Plaque-like CD34+ dermal fibroma (/chaptercontent/41/229)
+                   Nodular fasciitis (/chaptercontent/41/230)
+                Smooth muscle tumours
+                   Cutaneous leiomyomas and variants (/chaptercontent/41/232)
+                   Cutaneous leiomyosarcoma (atypical smooth muscle tumour) (/chaptercontent/41/233)
+                (Myo)pericytic tumours
+                   Glomus tumour and variants (/chaptercontent/41/235)
+                   Myopericytoma and variants (/chaptercontent/41/236)
+                   Angioleiomyoma (/chaptercontent/41/237)
+                Vascular tumours
+                   Cutaneous angiosarcoma (/chaptercontent/41/239)
+                   Haemangioendotheliomas (/paragraphcontent/41/240)
+                      Composite haemangioendothelioma (/chaptercontent/41/241)
+                      Kaposiform haemangioendothelioma (/chaptercontent/41/242)
+                      Pseudomyogenic haemangioendothelioma (/chaptercontent/41/243)
+                      Retiform haemangioendothelioma (/chaptercontent/41/244)
+                      Epithelioid haemangioendothelioma (/chaptercontent/41/245)
+                   Kaposi sarcoma (/chaptercontent/41/246)
+                   Atypical vascular lesion (/chaptercontent/41/247)
+                   Cutaneous epithelioid angiomatous nodule (/chaptercontent/41/248)
+                   Haemangiomas
+                      Cherry haemangioma (/chaptercontent/41/250)
+                      Sinusoidal haemangioma (/chaptercontent/41/251)
+                      Microvenular haemangioma (/chaptercontent/41/252)
+                      Hobnail haemangioma (/chaptercontent/41/253)
+                      Glomeruloid haemangioma (/chaptercontent/41/254)
+                      Spindle cell haemangioma (/chaptercontent/41/255)
+                      Epithelioid haemangioma (/chaptercontent/41/256)
+                      Tufted haemangioma (/chaptercontent/41/257)
+                      Angiokeratoma (/chaptercontent/41/258)
+                      Infantile haemangioma (/chaptercontent/41/259)
+                      Congenital non-progressive haemangiomas: rapidly involuting congenital haemangioma and
+                      non-involuting congenital haemangioma (/chaptercontent/41/260)
+                      Lobular capillary haemangioma (/chaptercontent/41/261)
+                      Verrucous venous malformation (/chaptercontent/41/262)
+                      Arteriovenous malformation (/chaptercontent/41/263)
+                   Lymphangioma (superficial lymphatic malformation) (/chaptercontent/41/264)
+                Neural tumours
+                   Neurofibroma and variants (/chaptercontent/41/266)
+                   Solitary circumscribed neuroma (/chaptercontent/41/267)
+                   Dermal nerve sheath myxoma (/chaptercontent/41/268)
+                   Perineurioma (/chaptercontent/41/269)
+                   Granular cell tumour (/chaptercontent/41/270)
+                   Schwannoma (/chaptercontent/41/271)
+                   Malignant peripheral nerve sheath tumour (/chaptercontent/41/272)
+https://tumourclassification.iarc.who.int/chapters/41                                                          6/7
+3/9/22, 9:43 PM                                                            BlueBooksOnline
+
+                Tumours of uncertain differentiation
+                  Atypical fibroxanthoma and variants (/chaptercontent/41/274)
+                     Pleomorphic dermal sarcoma (/chaptercontent/41/275)
+                     Myxofibrosarcoma (/chaptercontent/41/276)
+                     Epithelioid sarcoma (/chaptercontent/41/277)
+                     Dermal clear cell sarcoma (/chaptercontent/41/278)
+                     Ewing sarcoma (/chaptercontent/41/279)
+                     Primitive non-neural granular cell tumour (/chaptercontent/41/280)
+                     Cellular neurothekeoma (/chaptercontent/41/281)
+
+
+
+    7. Inherited tumour syndromes associated with skin malignancies                                                                  
+
+                Introduction (/paragraphcontent/41/283)
+                Familial melanoma (/chaptercontent/41/284)
+                Xeroderma pigmentosum (/chaptercontent/41/285)
+                Naevoid basal cell carcinoma syndrome (Gorlin syndrome) (/chaptercontent/41/286)
+                Carney complex (/chaptercontent/41/287)
+                BAP1 tumour predisposition syndrome (/chaptercontent/41/288)
+                Muir-Torre syndrome (/chaptercontent/41/289)
+
+
+       Terms of use (http://publications.iarc.fr/Terms-Of-Use)          Privacy Policy (https://www.iarc.fr/privacy-policy/)
+                                                        © IARC 1965-2022 — All Rights Reserved (https://www.iarc.fr/copyright-notice/)
+
+
+
+
+https://tumourclassification.iarc.who.int/chapters/41                                                                                    7/7
+

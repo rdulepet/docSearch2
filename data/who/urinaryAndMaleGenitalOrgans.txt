@@ -1,0 +1,361 @@
+3/9/22, 9:40 PM                                                   BlueBooksOnline
+
+
+    Urinary and Male Genital Tumours
+
+    1. Forewords and introductions                                                                           
+
+                WHO Classification of Tumours: Editorial Board (/paragraphcontent/36/334)
+                How to cite this volume (/paragraphcontent/36/333)
+                Foreword with changes from the book, including corrigenda (/paragraphcontent/36/332)
+                ICD-O coding of urinary and male genital tumours (/paragraphcontent/36/315)
+                Chapter 1: Introduction to urinary and male genital tumours (/paragraphcontent/36/1)
+
+
+
+    2. Tumours of the kidney                                                                                 
+
+                Renal cell tumours
+                     Renal cell tumours: Introduction (/paragraphcontent/36/4)
+                  Clear cell renal tumours
+                     Clear cell renal cell carcinoma (/chaptercontent/36/13)
+                     Multilocular cystic renal neoplasm of low malignant potential (/chaptercontent/36/14)
+                  Papillary renal tumours
+                     Renal papillary adenoma (/chaptercontent/36/6)
+                     Papillary renal cell carcinoma (/chaptercontent/36/7)
+                  Oncocytic and chromophobe renal tumours
+                     Oncocytoma of the kidney (/chaptercontent/36/17)
+                     Chromophobe renal cell carcinoma (/chaptercontent/36/18)
+                     Other oncocytic tumours of the kidney (/chaptercontent/36/204)
+                  Collecting duct tumours
+                     Collecting duct carcinoma (/chaptercontent/36/21)
+                  Other renal tumours
+                     Clear cell papillary renal cell tumour (/chaptercontent/36/15)
+                     Mucinous tubular and spindle cell carcinoma (/chaptercontent/36/8)
+                     Tubulocystic renal cell carcinoma (/chaptercontent/36/10)
+                     Acquired cystic disease-associated renal cell carcinoma (/chaptercontent/36/11)
+                     Eosinophilic solid and cystic renal cell carcinoma (/chaptercontent/36/23)
+                     Renal cell carcinoma NOS (/chaptercontent/36/27)
+                  Molecularly defined renal carcinomas
+                     TFE3-rearranged renal cell carcinomas (/chaptercontent/36/25)
+                     TFEB-rearranged renal cell carcinomas (/chaptercontent/36/26)
+                     ELOC (formerly TCEB1)-mutated renal cell carcinoma (/chaptercontent/36/211)
+                     Fumarate hydratase-deficient renal cell carcinoma (/chaptercontent/36/9)
+                     Succinate dehydrogenase-deficient renal cell carcinoma (/chaptercontent/36/19)
+                     ALK-rearranged renal cell carcinomas (/chaptercontent/36/311)
+                     SMARCB1-deficient renal medullary carcinoma (/chaptercontent/36/22)
+                Metanephric tumours
+                     Metanephric adenoma (/chaptercontent/36/48)
+                     Metanephric adenofibroma (/chaptercontent/36/49)
+                     Metanephric stromal tumour (/chaptercontent/36/50)
+                Mixed epithelial and stromal renal tumours
+                     Mixed epithelial and stromal tumour of the kidney (/chaptercontent/36/29)
+https://tumourclassification.iarc.who.int/chapters/36                                                            1/7
+3/9/22, 9:40 PM                                                    BlueBooksOnline
+
+                Renal mesenchymal tumours
+
+                  Adult renal mesenchymal tumours
+                     Classic angiomyolipoma / PEComa of the kidney (/chaptercontent/36/32)
+                     Epithelioid angiomyolipoma / epithelioid PEComa of the kidney (/chaptercontent/36/33)
+                     Renal haemangioblastoma (/chaptercontent/36/243)
+                     Juxtaglomerular cell tumour (/chaptercontent/36/34)
+                     Renomedullary interstitial cell tumour (/chaptercontent/36/35)
+                  Paediatric renal mesenchymal tumours
+                     Ossifying renal tumour of infancy (/chaptercontent/36/38)
+                     Congenital mesoblastic nephroma (/chaptercontent/36/37)
+                     Rhabdoid tumour of the kidney (/chaptercontent/36/39)
+                     Clear cell sarcoma of the kidney (/chaptercontent/36/40)
+                Embryonal neoplasms of the kidney
+                  Nephroblastic tumours
+                     Nephrogenic rests (/chaptercontent/36/43)
+                     Paediatric cystic nephroma (/chaptercontent/36/45)
+                     Cystic partially differentiated nephroblastoma (/chaptercontent/36/46)
+                     Nephroblastoma (/chaptercontent/36/44)
+                Miscellaneous renal tumours
+                     Germ cell tumours of the kidney (/chaptercontent/36/53)
+
+
+
+    3. Tumours of the urinary tract                                                                          
+
+                      Tumours of the urinary tract: Introduction (/paragraphcontent/36/66)
+                Urothelial tumours
+                   Non-invasive urothelial neoplasms
+                      Urothelial papilloma (/chaptercontent/36/69)
+                      Inverted urothelial papilloma (/chaptercontent/36/70)
+                      Papillary urothelial neoplasm of low malignant potential (/chaptercontent/36/71)
+                      Non-invasive papillary urothelial carcinoma, low-grade (/chaptercontent/36/72)
+                      Non-invasive papillary urothelial carcinoma, high-grade (/chaptercontent/36/73)
+                      Urothelial carcinoma in situ (/chaptercontent/36/74)
+                   Invasive urothelial neoplasms
+                      Invasive urothelial carcinoma (/chaptercontent/36/76)
+                Squamous cell neoplasms of the urinary tract
+                      Urothelial squamous cell papilloma (/chaptercontent/36/79)
+                   Squamous cell carcinomas of the urinary tract
+                      Verrucous carcinoma of the bladder (/chaptercontent/36/81)
+                      Pure urothelial squamous cell carcinoma (/chaptercontent/36/82)
+                Glandular neoplasms
+                   Adenomas
+                      Villous adenoma (/chaptercontent/36/85)
+                   Adenocarcinomas
+                      Adenocarcinoma NOS (/chaptercontent/36/87)
+                Urachal and diverticular neoplasms
+                      Urachal carcinoma (/chaptercontent/36/88)
+                      Diverticular carcinoma (/chaptercontent/36/330)
+https://tumourclassification.iarc.who.int/chapters/36                                                            2/7
+3/9/22, 9:40 PM                                                   BlueBooksOnline
+
+                Urethral neoplasms
+                   Urethral accessory gland carcinomas
+                      Littre gland carcinoma of the urethra (/chaptercontent/36/227)
+                      Skene gland carcinoma of the urethra (/chaptercontent/36/228)
+                      Cowper gland adenocarcinoma of the urethra (/chaptercontent/36/103)
+                Tumours of Mullerian type
+                      Clear cell adenocarcinoma of the urinary tract (/chaptercontent/36/90)
+                      Endometrioid carcinoma of the urinary tract (/chaptercontent/36/91)
+
+
+
+    4. Tumours of the prostate                                                                              
+
+                      Tumours of the prostate: Introduction (/paragraphcontent/36/95)
+                Epithelial tumours of the prostate
+                   Glandular neoplasms of the prostate
+                      Prostatic cystadenoma (/chaptercontent/36/331)
+                      High-grade prostatic intraepithelial neoplasia (/chaptercontent/36/98)
+                      Intraductal carcinoma of the prostate (/chaptercontent/36/99)
+                      Prostatic acinar adenocarcinoma (/chaptercontent/36/100)
+                      Prostatic ductal adenocarcinoma (/chaptercontent/36/101)
+                      Treatment-related neuroendocrine prostatic carcinoma (/chaptercontent/36/326)
+                   Squamous neoplasms of the prostate
+                      Adenosquamous carcinoma of the prostate (/chaptercontent/36/105)
+                      Squamous cell carcinoma of the prostate (/chaptercontent/36/106)
+                      Adenoid cystic (basal cell) carcinoma of the prostate (/chaptercontent/36/107)
+                Mesenchymal tumours unique to the prostate
+                   Stromal tumours of the prostate
+                      Prostatic stromal tumour of uncertain malignant potential (/chaptercontent/36/110)
+                      Prostatic stromal sarcoma (/chaptercontent/36/111)
+
+
+
+    5. Tumours of the seminal vesicle                                                                       
+
+                      Tumours of the seminal vesicle: Introduction (/paragraphcontent/36/318)
+                Epithelial tumours of the seminal vesicle
+                   Glandular neoplasms of the seminal vesicle
+                      Cystadenoma of the seminal vesicle (/chaptercontent/36/321)
+                      Adenocarcinoma of the seminal vesicle (/chaptercontent/36/322)
+                   Squamous neoplasms of the seminal vesicle
+                      Squamous cell carcinoma of the seminal vesicle (/chaptercontent/36/324)
+                Other tumours of the seminal vesicle
+                      Mixed epithelial and stromal tumour of the seminal vesicle (/chaptercontent/36/327)
+
+
+
+    6. Tumours of the testis                                                                                
+
+                     Tumours of the testis: Introduction (/paragraphcontent/36/113)
+                Germ cell tumours derived from germ cell neoplasia in situ
+                  Non-invasive germ cell neoplasia
+https://tumourclassification.iarc.who.int/chapters/36                                                           3/7
+3/9/22, 9:40 PM                                                       BlueBooksOnline
+
+                          Germ cell neoplasia in situ (/chaptercontent/36/116)
+
+                     Specific forms of intratubular germ cell neoplasia (/chaptercontent/36/117)
+                     Gonadoblastoma (/chaptercontent/36/157)
+                  The germinoma family of tumours
+                     Seminoma (/chaptercontent/36/119)
+                  Non-seminomatous germ cell tumours
+                     Embryonal carcinoma (/chaptercontent/36/121)
+                     Yolk sac tumour, postpubertal-type (/chaptercontent/36/122)
+                     Choriocarcinoma (/chaptercontent/36/124)
+                     Placental site trophoblastic tumour (/chaptercontent/36/125)
+                     Epithelioid trophoblastic tumour (/chaptercontent/36/126)
+                     Cystic trophoblastic tumour (/chaptercontent/36/127)
+                     Teratoma, postpubertal-type (/chaptercontent/36/316)
+                     Teratoma with somatic-type malignancy (/chaptercontent/36/129)
+                  Mixed germ cell tumours of the testis
+                     Mixed germ cell tumours (/chaptercontent/36/134)
+                  Germ cell tumours of unknown type
+                     Regressed germ cell tumours (/chaptercontent/36/136)
+                Germ cell tumours unrelated to germ cell neoplasia in situ
+                     Spermatocytic tumour (/chaptercontent/36/138)
+                     Teratoma, prepubertal-type (/chaptercontent/36/140)
+                     Yolk sac tumour, prepubertal-type (/chaptercontent/36/142)
+                     Testicular neuroendocrine tumour, prepubertal-type (/chaptercontent/36/130)
+                     Mixed teratoma and yolk sac tumour, prepubertal-type (/chaptercontent/36/141)
+                Sex cord stromal tumours of the testis
+                  Leydig cell tumour
+                     Leydig cell tumour (/chaptercontent/36/145)
+                  Sertoli cell tumours
+                     Sertoli cell tumour (/chaptercontent/36/147)
+                     Large cell calcifying Sertoli cell tumour (/chaptercontent/36/219)
+                  Granulosa cell tumours
+                     Adult granulosa cell tumour (/chaptercontent/36/149)
+                     Juvenile granulosa cell tumour (/chaptercontent/36/150)
+                  The fibroma thecoma family of tumours
+                     Tumours in the fibroma thecoma group (/chaptercontent/36/152)
+                  Mixed and other sex cord stromal tumours
+                     Mixed sex cord stromal tumour (/chaptercontent/36/154)
+                     Signet ring stromal tumour (/chaptercontent/36/133)
+                     Myoid gonadal stromal tumour (/chaptercontent/36/222)
+                     Sex cord stromal tumour NOS (/chaptercontent/36/155)
+
+
+
+    7. Tumours of the testicular adnexa                                                              
+
+                       Tumours of the testicular adnexa: Introduction (/paragraphcontent/36/170)
+                     Ovarian-type tumours of the collecting ducts and rete testis
+                       Serous cystadenoma (/chaptercontent/36/160)
+                       Serous tumour of borderline malignancy (/chaptercontent/36/161)
+https://tumourclassification.iarc.who.int/chapters/36                                                    4/7
+3/9/22, 9:40 PM                                                     BlueBooksOnline
+
+                          Serous cystadenocarcinoma (/chaptercontent/36/162)
+                          Mucinous cystadenoma (/chaptercontent/36/163)
+                        Mucinous borderline tumour (/chaptercontent/36/164)
+                        Mucinous cystadenocarcinoma (/chaptercontent/36/165)
+                        Endometrioid tumour (/chaptercontent/36/166)
+                        Clear cell adenocarcinoma (/chaptercontent/36/167)
+                        Brenner tumour (/chaptercontent/36/168)
+                     Tumours of the collecting ducts and rete testis
+                        Adenoma of the collecting ducts and rete testis (/chaptercontent/36/172)
+                        Adenocarcinoma of the collecting ducts and rete testis (/chaptercontent/36/173)
+                     Paratesticular mesothelial tumours
+                        Adenomatoid tumour (/chaptercontent/36/176)
+                        Well-differentiated papillary mesothelial tumour (/chaptercontent/36/178)
+                        Mesothelioma (/chaptercontent/36/177)
+                     Tumours of the epididymis
+                        Cystadenoma of the epididymis (/chaptercontent/36/182)
+                        Papillary cystadenoma of the epididymis (/chaptercontent/36/183)
+                        Adenocarcinoma of the epididymis (/chaptercontent/36/184)
+                        Squamous cell carcinoma of the epididymis (/chaptercontent/36/185)
+                        Melanotic neuroectodermal tumour of the epididymis (/chaptercontent/36/186)
+
+
+
+    8. Tumours of the penis and scrotum                                                                           
+
+                      Tumours of the penis and scrotum: Introduction (/paragraphcontent/36/191)
+                Benign and precursor squamous lesions
+                      Condyloma acuminatum (/chaptercontent/36/193)
+                   Squamous cell carcinoma precursors, HPV-associated
+                      Penile intraepithelial neoplasia, HPV-associated (/chaptercontent/36/195)
+                   Squamous cell tumours and precursors, HPV-independent
+                      Differentiated penile intraepithelial neoplasia, HPV-independent (/chaptercontent/36/201)
+                Invasive epithelial tumours of the penis and scrotum
+                   Invasive squamous epithelial tumours
+                      HPV-associated squamous cell carcinoma (/chaptercontent/36/203)
+                      HPV-independent squamous cell carcinoma (/chaptercontent/36/208)
+                      Squamous cell carcinoma NOS (/chaptercontent/36/209)
+                   Other epithelial tumours
+                      Penile adenosquamous and mucoepidermoid carcinomas (/chaptercontent/36/212)
+                      Extramammary Paget disease (/chaptercontent/36/215)
+                Other scrotal tumours
+                      Basal cell carcinoma of the scrotum (/chaptercontent/36/312)
+
+
+
+    9. Neuroendocrine neoplasms                                                                                   
+
+                       Neuroendocrine neoplasms: Introduction (/paragraphcontent/36/56)
+                     Neuroendocrine tumours
+                       Well-differentiated neuroendocrine tumour (/chaptercontent/36/58)
+                     Neuroendocrine carcinomas
+https://tumourclassification.iarc.who.int/chapters/36                                                                 5/7
+3/9/22, 9:40 PM                                                      BlueBooksOnline
+
+                          Small cell neuroendocrine carcinoma (/chaptercontent/36/61)
+
+                        Large cell neuroendocrine carcinoma (/chaptercontent/36/60)
+                        Mixed neuroendocrine neoplasms (/chaptercontent/36/62)
+                     Paragangliomas
+                        Paraganglioma (/chaptercontent/36/64)
+
+
+
+    10. Mesenchymal tumours                                                                  
+
+                        Mesenchymal tumours: Introduction (/paragraphcontent/36/231)
+                     Fibroblastic and myofibroblastic tumours
+                        The angiofibroma family of tumours (/chaptercontent/36/314)
+                        Solitary fibrous tumour (/chaptercontent/36/234)
+                        Inflammatory myofibroblastic tumour (/chaptercontent/36/236)
+                     Vascular tumours
+                        Haemangioma (/chaptercontent/36/240)
+                        Angiosarcoma (/chaptercontent/36/245)
+                     Pericytic (perivascular) tumours
+                        Glomus tumour (/chaptercontent/36/247)
+                        Myointimoma (/chaptercontent/36/248)
+                        Myopericytoma (/chaptercontent/36/329)
+                        Extrarenal PEComa (/chaptercontent/36/249)
+                     Smooth muscle tumours
+                        Leiomyoma (/chaptercontent/36/252)
+                        Leiomyosarcoma (/chaptercontent/36/253)
+                     Skeletal muscle tumours
+                        Rhabdomyosarcoma (/chaptercontent/36/255)
+                     Tumours of uncertain differentiation
+                        Synovial sarcoma (/chaptercontent/36/264)
+                        Extrarenal rhabdoid tumour (/chaptercontent/36/268)
+                        Desmoplastic small round cell tumour (/chaptercontent/36/313)
+
+
+
+    11. Haematolymphoid tumours                                                              
+
+                        Haematolymphoid tumours: Introduction (/paragraphcontent/36/271)
+                     Mature B-cell lymphomas
+                        Extranodal marginal zone lymphoma of MALT (/chaptercontent/36/275)
+                        Diffuse large B-cell lymphoma (/chaptercontent/36/277)
+                        Plasmacytoma (/chaptercontent/36/278)
+                     Histiocytic tumours
+                        Juvenile xanthogranuloma (/chaptercontent/36/282)
+
+
+
+    12. Melanocytic lesions                                                                  
+
+                          Mucosal melanoma (/chaptercontent/36/287)
+
+https://tumourclassification.iarc.who.int/chapters/36                                            6/7
+3/9/22, 9:40 PM                                                            BlueBooksOnline
+
+    13. Metastases in the genitourinary system                                                                                       
+
+                          Metastases in the genitourinary system: Introduction (/paragraphcontent/36/289)
+                          Metastasis to the urinary tract (/chaptercontent/36/291)
+                          Metastasis to the kidney (/chaptercontent/36/290)
+                          Metastasis to the testis and paratestis (/chaptercontent/36/292)
+
+
+
+    14. Genetic tumour syndromes of the urinary and male genital tracts                                                              
+
+                          Genetic tumour syndromes of the urinary and male genital tracts: Introduction
+                          (/paragraphcontent/36/295)
+                          Von Hippel-Lindau syndrome (/chaptercontent/36/297)
+                          Birt-Hogg-Dube syndrome (/chaptercontent/36/298)
+                          Hereditary papillary renal carcinoma (/chaptercontent/36/299)
+                          Hereditary leiomyomatosis and renal cell carcinoma syndrome (/chaptercontent/36/300)
+                          Succinate dehydrogenase-deficient tumour syndromes (/chaptercontent/36/302)
+                          BAP1 tumour predisposition syndrome (/chaptercontent/36/303)
+                          Hereditary phaeochromocytoma-paraganglioma syndromes (/chaptercontent/36/304)
+                          Tuberous sclerosis (/chaptercontent/36/305)
+                          Genitourinary system and Lynch syndrome (/chaptercontent/36/307)
+                          Hereditary tumour syndromes associated with homologous recombination pathway mutations
+                          (/chaptercontent/36/308)
+                          Carney complex (/chaptercontent/36/309)
+                          Peutz-Jeghers syndrome (/chaptercontent/36/310)
+
+
+       Terms of use (http://publications.iarc.fr/Terms-Of-Use)          Privacy Policy (https://www.iarc.fr/privacy-policy/)
+                                                        © IARC 1965-2022 — All Rights Reserved (https://www.iarc.fr/copyright-notice/)
+
+
+
+
+https://tumourclassification.iarc.who.int/chapters/36                                                                                    7/7
+

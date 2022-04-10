@@ -1,0 +1,291 @@
+3/9/22, 9:37 PM                                                  BlueBooksOnline
+
+
+    Thoracic tumours
+
+    1. Foreword                                                                                             
+
+                WHO Classification of Tumours: Editorial Board (/paragraphcontent/35/329)
+                How to cite this volume (/paragraphcontent/35/330)
+                Foreword with changes from the book, including corrigenda (/paragraphcontent/35/331)
+                ICD-O coding of thoracic tumours (/paragraphcontent/35/332)
+
+
+
+    2. Tumours of the lung                                                                                  
+
+                Tumours of the lung: Introduction (/paragraphcontent/35/2)
+                Small diagnostic samples (/paragraphcontent/35/313)
+                Epithelial tumours
+                   Papillomas
+                      Bronchial papillomas (/chaptercontent/35/5)
+                   Adenomas
+                      Sclerosing pneumocytoma (/chaptercontent/35/11)
+                      Alveolar adenoma (/chaptercontent/35/12)
+                      Papillary adenoma of the lung (/chaptercontent/35/13)
+                      Bronchiolar adenoma / ciliated muconodular papillary tumour (/chaptercontent/35/14)
+                      Mucinous cystadenoma of the lung (/chaptercontent/35/15)
+                      Mucous gland adenoma of the lung (/chaptercontent/35/16)
+                   Precursor glandular lesions
+                      Atypical adenomatous hyperplasia of the lung (/chaptercontent/35/18)
+                      Adenocarcinoma in situ of the lung (/chaptercontent/35/19)
+                   Adenocarcinomas
+                      Minimally invasive adenocarcinoma of the lung (/chaptercontent/35/35)
+                      Invasive non-mucinous adenocarcinoma of the lung (/chaptercontent/35/23)
+                      Invasive mucinous adenocarcinoma of the lung (/chaptercontent/35/29)
+                      Colloid adenocarcinoma of the lung (/chaptercontent/35/31)
+                      Fetal adenocarcinoma of the lung (/chaptercontent/35/32)
+                      Enteric-type adenocarcinoma of the lung (/chaptercontent/35/33)
+                   Squamous precursor lesions
+                      Squamous dysplasia and carcinoma in situ of the lung (/chaptercontent/35/81)
+                   Squamous cell carcinomas
+                      Squamous cell carcinoma of the lung (/chaptercontent/35/41)
+                      Lymphoepithelial carcinoma of the lung (/chaptercontent/35/314)
+                   Large cell carcinomas
+                      Large cell carcinoma of the lung (/chaptercontent/35/46)
+                   Adenosquamous carcinoma
+                      Adenosquamous carcinoma of the lung (/chaptercontent/35/47)
+                   Sarcomatoid carcinomas
+                      Pleomorphic carcinoma of the lung (/chaptercontent/35/312)
+                      Pulmonary blastoma (/chaptercontent/35/52)
+                      Carcinosarcoma of the lung (/chaptercontent/35/51)
+                   Other epithelial tumours
+https://tumourclassification.iarc.who.int/chapters/35                                                           1/6
+3/9/22, 9:37 PM                                                     BlueBooksOnline
+
+                          NUT carcinoma of the lung (see NUT carcinoma of the thorax) (/paragraphcontent/35/54)
+
+                     Thoracic SMARCA4-deficient undifferentiated tumour (/chaptercontent/35/55)
+                  Salivary gland-type tumours
+                     Pleomorphic adenoma of the lung (/chaptercontent/35/57)
+                     Adenoid cystic carcinoma of the lung (/chaptercontent/35/58)
+                     Epithelial-myoepithelial carcinoma of the lung (/chaptercontent/35/59)
+                     Mucoepidermoid carcinoma of the lung (/chaptercontent/35/60)
+                     Hyalinizing clear cell carcinoma of the lung (/chaptercontent/35/61)
+                     Myoepithelioma and myoepithelial carcinoma of the lung (/chaptercontent/35/63)
+                Lung neuroendocrine neoplasms
+                  Lung neuroendocrine neoplasms: Introduction (/paragraphcontent/35/307)
+                  Precursor lesion
+                     Diffuse idiopathic pulmonary neuroendocrine cell hyperplasia (/chaptercontent/35/67)
+                  Neuroendocrine tumours
+                     Carcinoid/neuroendocrine tumour of the lung (/chaptercontent/35/69)
+                  Neuroendocrine carcinomas
+                     Small cell lung carcinoma (/chaptercontent/35/72)
+                     Large cell neuroendocrine carcinoma of the lung (/chaptercontent/35/74)
+                Tumours of ectopic tissues
+                     Melanoma of the lung (/chaptercontent/35/85)
+                     Meningioma of the lung (/chaptercontent/35/86)
+                Mesenchymal tumours specific to the lung
+                     Pulmonary hamartoma (/chaptercontent/35/90)
+                     Pulmonary chondroma (/chaptercontent/35/91)
+                     Diffuse pulmonary lymphangiomatosis (/chaptercontent/35/98)
+                     Pleuropulmonary blastoma (/chaptercontent/35/93)
+                     Pulmonary artery intimal sarcoma (/chaptercontent/35/94)
+                     Congenital peribronchial myofibroblastic tumour (/chaptercontent/35/334)
+                     Primary pulmonary myxoid sarcoma with EWSR1-CREB1 fusion (/chaptercontent/35/95)
+                  PEComatous tumours
+                     Lymphangioleiomyomatosis of the lung (/chaptercontent/35/97)
+                     PEComa of the lung (/chaptercontent/35/290)
+                Haematolymphoid tumours
+                     Haematolymphoid tumours of the lung: Introduction (/paragraphcontent/35/101)
+                     MALT lymphoma of the lung (/chaptercontent/35/102)
+                     Pulmonary diffuse large B-cell lymphoma (/chaptercontent/35/103)
+                     Lymphomatoid granulomatosis of the lung (/chaptercontent/35/104)
+                     Intravascular large B-cell lymphoma of the lung (/chaptercontent/35/105)
+                     Pulmonary Langerhans cell histiocytosis (/chaptercontent/35/106)
+                     Pulmonary Erdheim-Chester disease (/chaptercontent/35/107)
+
+
+
+    3. Tumours of the pleura and pericardium                                                                      
+
+                Tumours of the pleura and pericardium: Introduction (/paragraphcontent/35/109)
+                Mesothelial tumours
+                  Benign and preinvasive mesothelial tumours
+                     Adenomatoid tumour of the pleura (/chaptercontent/35/112)
+https://tumourclassification.iarc.who.int/chapters/35                                                                 2/6
+3/9/22, 9:37 PM                                                   BlueBooksOnline
+
+                    Well-differentiated papillary mesothelial tumour of the pleura (/chaptercontent/35/116)
+                    Mesothelioma in situ (/chaptercontent/35/114)
+                  Mesothelioma
+                    Localized pleural mesothelioma (/chaptercontent/35/115)
+                    Diffuse pleural mesothelioma (/chaptercontent/35/117)
+                Haematolymphoid tumours
+                    Haematolymphoid tumours of the pleura and pericardium: Introduction
+                    (/paragraphcontent/35/127)
+                    Primary effusion lymphoma (/chaptercontent/35/128)
+                    Diffuse large B-cell lymphoma associated with chronic inflammation of the pleura
+                    (/chaptercontent/35/129)
+
+
+
+    4. Tumours of the heart                                                                                    
+
+                Tumours of the heart: Introduction (/paragraphcontent/35/131)
+                Benign tumours
+                     Papillary fibroelastoma (/chaptercontent/35/138)
+                     Cardiac myxoma (/chaptercontent/35/137)
+                     Cardiac fibroma (/chaptercontent/35/144)
+                     Cardiac rhabdomyoma (/chaptercontent/35/133)
+                     Adult cellular rhabdomyoma (/chaptercontent/35/136)
+                     Cardiac lipoma and lipomatous hypertrophy of the atrial septum (/chaptercontent/35/145)
+                     Lipomatous hamartoma of the atrioventricular valve (/chaptercontent/35/317)
+                     Hamartoma of mature cardiac myocytes (/chaptercontent/35/135)
+                     Mesenchymal cardiac hamartoma (/chaptercontent/35/305)
+                     Cardiac haemangiomas (/chaptercontent/35/139)
+                     Conduction system hamartoma (/chaptercontent/35/134)
+                     Cystic tumour of the atrioventricular node (/chaptercontent/35/146)
+                Malignant tumours
+                     Cardiac angiosarcoma (/chaptercontent/35/157)
+                     Cardiac leiomyosarcoma (/chaptercontent/35/161)
+                     Cardiac undifferentiated pleomorphic sarcoma (/chaptercontent/35/158)
+                     Other sarcomas that may involve the heart (/paragraphcontent/35/164)
+                Haematolymphoid tumours
+                     Haematolymphoid tumours of the heart: Introduction (/paragraphcontent/35/167)
+                     Cardiac diffuse large B-cell lymphoma (/chaptercontent/35/168)
+                     Cardiac fibrin-associated diffuse large B-cell lymphoma (/chaptercontent/35/169)
+
+
+
+    5. Mesenchymal tumours of the thorax                                                                       
+
+                Mesenchymal tumours of the thorax: Introduction (/paragraphcontent/35/171)
+                Mesenchymal tumours
+                  Adipocytic tumours
+                     Lipoma of the thorax (/chaptercontent/35/174)
+                     Thymolipoma (/chaptercontent/35/175)
+                     Liposarcoma of the thorax (/chaptercontent/35/176)
+                  Fibroblastic and myofibroblastic tumours
+https://tumourclassification.iarc.who.int/chapters/35                                                              3/6
+3/9/22, 9:37 PM                                                      BlueBooksOnline
+
+                          Desmoid fibromatosis of the thorax (/chaptercontent/35/182)
+
+                        Solitary fibrous tumour of the thorax (/chaptercontent/35/183)
+                        Calcifying fibrous tumour of the thorax (/chaptercontent/35/189)
+                        Inflammatory myofibroblastic tumour of the thorax (/chaptercontent/35/185)
+                        Myxofibrosarcoma of the thorax (/chaptercontent/35/186)
+                     Vascular tumours
+                        Haemangioma of the thorax (/chaptercontent/35/191)
+                        Lymphangioma of the thorax (/chaptercontent/35/192)
+                        Epithelioid haemangioendothelioma of the thorax (/chaptercontent/35/193)
+                        Angiosarcoma of the thorax (/chaptercontent/35/194)
+                     Skeletal muscle tumours
+                        Rhabdomyosarcoma of the thorax (/chaptercontent/35/199)
+                     Peripheral nerve sheath and neural tumours
+                        Paraganglioma of the thorax (/chaptercontent/35/151)
+                        Granular cell tumour of the thorax (/chaptercontent/35/147)
+                        Schwannoma of the thorax (/chaptercontent/35/204)
+                        Malignant peripheral nerve sheath tumour of the thorax (/chaptercontent/35/293)
+                        Peripheral neuroblastic tumours of the thorax (/chaptercontent/35/294)
+                     Tumours of uncertain differentiation
+                        Synovial sarcoma of the thorax (/chaptercontent/35/210)
+                        Undifferentiated small round cell sarcomas of the thorax (/chaptercontent/35/215)
+
+
+
+    6. Tumours of the thymus                                                                                  
+
+                Epithelial tumours
+                   Thymoma
+                   Thymoma: Introduction (/paragraphcontent/35/292)
+                      Type A thymoma (including atypical subtype) (/chaptercontent/35/219)
+                      Type AB thymoma (/chaptercontent/35/220)
+                      Type B1 thymoma (/chaptercontent/35/221)
+                      Type B2 thymoma (/chaptercontent/35/222)
+                      Type B3 thymoma (/chaptercontent/35/223)
+                      Micronodular thymoma with lymphoid stroma (/chaptercontent/35/224)
+                      Metaplastic thymoma (/chaptercontent/35/225)
+                      Lipofibroadenoma of the thymus (/chaptercontent/35/229)
+                   Thymic carcinoma: Introduction (/paragraphcontent/35/298)
+                      Squamous cell carcinoma of the thymus (/chaptercontent/35/231)
+                      Basaloid carcinoma of the thymus (/chaptercontent/35/232)
+                      Lymphoepithelial carcinoma of the thymus (/chaptercontent/35/234)
+                      NUT carcinoma of the thorax (/chaptercontent/35/243)
+                      Clear cell carcinoma of the thymus (/chaptercontent/35/235)
+                      Low-grade papillary adenocarcinoma of the thymus (/chaptercontent/35/238)
+                      Mucoepidermoid carcinoma of the thymus (/chaptercontent/35/233)
+                      Thymic carcinoma with adenoid cystic carcinoma-like features (/chaptercontent/35/239)
+                      Enteric-type adenocarcinoma of the thymus (/chaptercontent/35/241)
+                      Adenocarcinoma NOS of the thymus (/chaptercontent/35/242)
+                      Adenosquamous carcinoma of the thymus (/chaptercontent/35/246)
+https://tumourclassification.iarc.who.int/chapters/35                                                             4/6
+3/9/22, 9:37 PM                                                      BlueBooksOnline
+
+                          Sarcomatoid carcinoma of the thymus (/chaptercontent/35/236)
+                          Undifferentiated carcinoma of the thymus (/chaptercontent/35/244)
+                     Thymic carcinoma NOS (/paragraphcontent/35/248)
+                Thymic neuroendocrine neoplasms
+                  Thymic neuroendocrine neoplasms: Introduction (/paragraphcontent/35/300)
+                  Neuroendocrine tumours
+                     Carcinoid/neuroendocrine tumour of the thymus (/chaptercontent/35/252)
+                  Neuroendocrine carcinomas
+                     Small cell carcinoma of the thymus (/chaptercontent/35/257)
+                     Large cell neuroendocrine carcinoma of the thymus (/chaptercontent/35/255)
+
+
+
+    7. Germ cell tumours of the mediastinum                                                                        
+
+                     Germ cell tumours of the mediastinum: Introduction (/paragraphcontent/35/301)
+                       Seminoma of the mediastinum (/chaptercontent/35/262)
+                       Embryonal carcinoma of the mediastinum (/chaptercontent/35/263)
+                       Yolk sac tumour of the mediastinum (/chaptercontent/35/264)
+                       Choriocarcinoma of the mediastinum (/chaptercontent/35/265)
+                       Teratoma of the mediastinum (/chaptercontent/35/266)
+                       Mixed germ cell tumours of the mediastinum (/chaptercontent/35/269)
+                       Mediastinal germ cell tumours with somatic-type solid malignancy (/chaptercontent/35/270)
+                       Mediastinal germ cell tumours with associated haematological malignancy
+                       (/chaptercontent/35/272)
+
+
+
+    8. Haematolymphoid tumours of the mediastinum                                                                  
+
+                          Haematolymphoid tumours of the mediastinum: Introduction (/paragraphcontent/35/275)
+                          Primary mediastinal large B-cell lymphoma (/chaptercontent/35/276)
+                          MALT lymphoma of the mediastinum (/chaptercontent/35/277)
+                          Mediastinal T-lymphoblastic leukaemia/lymphoma (/chaptercontent/35/278)
+                          Classic Hodgkin lymphoma of the mediastinum (/chaptercontent/35/279)
+                          Mediastinal grey zone lymphoma (/chaptercontent/35/280)
+                          Follicular dendritic cell sarcoma of the mediastinum (/chaptercontent/35/281)
+                          Myeloid sarcoma of the mediastinum (/chaptercontent/35/282)
+
+
+
+    9. Ectopic tumours of thyroid and parathyroid origin                                                           
+
+                          Ectopic thyroid tumours (/chaptercontent/35/326)
+                          Ectopic parathyroid tumours (/chaptercontent/35/327)
+
+
+
+    10. Metastases                                                                                                 
+
+                          Metastasis to the lung (/chaptercontent/35/87)
+                          Metastasis to the pleura (/chaptercontent/35/324)
+                          Metastasis to the thymus and mediastinal lymph nodes (/chaptercontent/35/325)
+https://tumourclassification.iarc.who.int/chapters/35                                                                  5/6
+3/9/22, 9:37 PM                                                            BlueBooksOnline
+
+                          Metastasis to the heart and pericardium (/chaptercontent/35/323)
+
+
+
+    11. Genetic tumour syndromes involving the thorax                                                                                
+
+                     Genetic tumour syndromes involving the thorax: Introduction (/paragraphcontent/35/309)
+                       Li-Fraumeni syndrome (/chaptercontent/35/285)
+                       BAP1 tumour predisposition syndrome (/chaptercontent/35/289)
+                       Carney complex (/chaptercontent/35/310)
+
+
+       Terms of use (http://publications.iarc.fr/Terms-Of-Use)          Privacy Policy (https://www.iarc.fr/privacy-policy/)
+                                                        © IARC 1965-2022 — All Rights Reserved (https://www.iarc.fr/copyright-notice/)
+
+
+
+
+https://tumourclassification.iarc.who.int/chapters/35                                                                                    6/6
+

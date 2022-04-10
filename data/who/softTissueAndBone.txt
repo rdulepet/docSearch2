@@ -1,0 +1,259 @@
+3/9/22, 9:35 PM                                                   BlueBooksOnline
+
+
+    Soft Tissue and Bone Tumours
+
+    1. Foreword                                                                                              
+
+                WHO Classification of Tumours: Editorial Board (/paragraphcontent/33/273)
+                Foreword with changes from the book, including corrigenda (/paragraphcontent/33/274)
+                WHO classification of tumours of soft tissue and bone: ICD-O coding (/paragraphcontent/33/279)
+
+
+
+    2. Soft tissue tumours                                                                                   
+
+                Soft tissue tumours: Introduction (/paragraphcontent/33/1)
+                Adipocytic tumours
+                   Lipoma (/chaptercontent/33/4)
+                   Lipomatosis (/chaptercontent/33/213)
+                   Lipomatosis of nerve (/chaptercontent/33/214)
+                   Lipoblastoma and lipoblastomatosis (/chaptercontent/33/8)
+                   Angiolipoma (/chaptercontent/33/5)
+                   Myolipoma of soft tissue (/chaptercontent/33/9)
+                   Chondroid lipoma (/chaptercontent/33/6)
+                   Spindle cell lipoma and pleomorphic lipoma (/chaptercontent/33/10)
+                   Hibernoma (/chaptercontent/33/7)
+                   Atypical spindle cell / pleomorphic lipomatous tumour (/chaptercontent/33/223)
+                   Atypical lipomatous tumour / well-differentiated liposarcoma (/chaptercontent/33/12)
+                   Dedifferentiated liposarcoma (/chaptercontent/33/14)
+                   Myxoid liposarcoma (/chaptercontent/33/16)
+                   Pleomorphic liposarcoma (/chaptercontent/33/15)
+                   Myxoid pleomorphic liposarcoma (/chaptercontent/33/250)
+                Fibroblastic and myofibroblastic tumours
+                   Nodular fasciitis (/chaptercontent/33/18)
+                   Proliferative fasciitis and proliferative myositis (/chaptercontent/33/20)
+                   Myositis ossificans and fibro-osseous pseudotumour of digits (/chaptercontent/33/19)
+                   Ischaemic fasciitis (/chaptercontent/33/21)
+                   Elastofibroma (/chaptercontent/33/22)
+                   Fibrous hamartoma of infancy (/chaptercontent/33/23)
+                   Fibromatosis colli (/chaptercontent/33/24)
+                   Juvenile hyaline fibromatosis (/chaptercontent/33/25)
+                   Inclusion body fibromatosis (/chaptercontent/33/26)
+                   Fibroma of tendon sheath (/chaptercontent/33/27)
+                   Desmoplastic fibroblastoma (/chaptercontent/33/28)
+                   Myofibroblastoma (/chaptercontent/33/29)
+                   Calcifying aponeurotic fibroma (/chaptercontent/33/31)
+                   EWSR1-SMAD3-positive fibroblastic tumour (emerging) (/chaptercontent/33/253)
+                   Angiomyofibroblastoma (/chaptercontent/33/33)
+                   Cellular angiofibroma (/chaptercontent/33/34)
+                   Angiofibroma of soft tissue (/chaptercontent/33/251)
+                   Nuchal-type fibroma (/chaptercontent/33/35)
+                   Acral fibromyxoma (/chaptercontent/33/109)
+https://tumourclassification.iarc.who.int/chapters/33                                                            1/5
+3/9/22, 9:35 PM                                                BlueBooksOnline
+
+                     Gardner fibroma (/chaptercontent/33/36)
+
+                   Palmar fibromatosis and plantar fibromatosis (/chaptercontent/33/38)
+                   Desmoid fibromatosis (/chaptercontent/33/40)
+                   Lipofibromatosis (/chaptercontent/33/41)
+                   Giant cell fibroblastoma (/chaptercontent/33/42)
+                   Dermatofibrosarcoma protuberans (/chaptercontent/33/46)
+                   Solitary fibrous tumour (/chaptercontent/33/37)
+                   Inflammatory myofibroblastic tumour (/chaptercontent/33/43)
+                   Low-grade myofibroblastic sarcoma (/chaptercontent/33/50)
+                   Superficial CD34-positive fibroblastic tumour (/chaptercontent/33/249)
+                   Myxoinflammatory fibroblastic sarcoma (/chaptercontent/33/44)
+                   Infantile fibrosarcoma (/chaptercontent/33/48)
+                   Adult fibrosarcoma (/chaptercontent/33/47)
+                   Myxofibrosarcoma (/chaptercontent/33/49)
+                   Low-grade fibromyxoid sarcoma (/chaptercontent/33/51)
+                   Sclerosing epithelioid fibrosarcoma (/chaptercontent/33/52)
+                So-called fibrohistiocytic tumours
+                   Tenosynovial giant cell tumour (/chaptercontent/33/57)
+                   Deep fibrous histiocytoma (/chaptercontent/33/54)
+                   Plexiform fibrohistiocytic tumour (/chaptercontent/33/55)
+                   Giant cell tumour of soft tissue (/chaptercontent/33/56)
+                Vascular tumours
+                   Haemangiomas
+                       Synovial haemangioma (/chaptercontent/33/269)
+                       Intramuscular angioma (/chaptercontent/33/270)
+                       Arteriovenous malformation/haemangioma (/chaptercontent/33/271)
+                       Venous haemangioma (/chaptercontent/33/272)
+                   Anastomosing haemangioma (/chaptercontent/33/252)
+                   Epithelioid haemangioma (/chaptercontent/33/215)
+                   Lymphangioma and lymphangiomatosis (/chaptercontent/33/67)
+                   Tufted angioma and kaposiform haemangioendothelioma (/chaptercontent/33/211)
+                   Retiform haemangioendothelioma (/chaptercontent/33/71)
+                   Papillary intralymphatic angioendothelioma (/chaptercontent/33/210)
+                   Composite haemangioendothelioma (/chaptercontent/33/209)
+                   Kaposi sarcoma (/chaptercontent/33/70)
+                   Pseudomyogenic haemangioendothelioma (/chaptercontent/33/72)
+                   Epithelioid haemangioendothelioma (/chaptercontent/33/73)
+                   Angiosarcoma (/chaptercontent/33/74)
+                Pericytic (perivascular) tumours
+                   Glomus tumour (/chaptercontent/33/79)
+                   Myopericytoma, including myofibroma (/chaptercontent/33/78)
+                   Angioleiomyoma (/chaptercontent/33/77)
+                Smooth muscle tumours
+                   Leiomyoma (/chaptercontent/33/99)
+                   EBV-associated smooth muscle tumour (/chaptercontent/33/226)
+                   Inflammatory leiomyosarcoma (/chaptercontent/33/255)
+                   Leiomyosarcoma (/chaptercontent/33/100)
+                Skeletal muscle tumours
+https://tumourclassification.iarc.who.int/chapters/33                                             2/5
+3/9/22, 9:35 PM                                                BlueBooksOnline
+
+                  Rhabdomyoma (/chaptercontent/33/102)
+                  Embryonal rhabdomyosarcoma (/chaptercontent/33/104)
+                  Alveolar rhabdomyosarcoma (/chaptercontent/33/105)
+                  Pleomorphic rhabdomyosarcoma (/chaptercontent/33/107)
+                  Spindle cell / sclerosing rhabdomyosarcoma (/chaptercontent/33/106)
+                  Ectomesenchymoma (/chaptercontent/33/94)
+                Gastrointestinal stromal tumour
+                  Gastrointestinal stromal tumour (/chaptercontent/33/216)
+                Chondro-osseous tumours
+                  Soft tissue chondroma (/chaptercontent/33/96)
+                  Extraskeletal osteosarcoma (/chaptercontent/33/97)
+                Peripheral nerve sheath tumours
+                  Schwannoma (/chaptercontent/33/81)
+                  Neurofibroma (/chaptercontent/33/83)
+                  Perineurioma (/chaptercontent/33/84)
+                  Granular cell tumour (/chaptercontent/33/85)
+                  Dermal nerve sheath myxoma (/chaptercontent/33/86)
+                  Solitary circumscribed neuroma (/chaptercontent/33/87)
+                  Ectopic meningioma and meningothelial hamartoma (/chaptercontent/33/88)
+                  Benign triton tumour / neuromuscular choristoma (/chaptercontent/33/90)
+                  Hybrid nerve sheath tumour (/chaptercontent/33/91)
+                  Malignant peripheral nerve sheath tumour (/chaptercontent/33/92)
+                  Malignant melanotic nerve sheath tumour (/chaptercontent/33/82)
+                Tumours of uncertain differentiation
+                  Intramuscular myxoma (/chaptercontent/33/110)
+                  Juxta-articular myxoma (/chaptercontent/33/111)
+                  Deep (aggressive) angiomyxoma (/chaptercontent/33/112)
+                  Atypical fibroxanthoma (/chaptercontent/33/115)
+                  Angiomatoid fibrous histiocytoma (/chaptercontent/33/116)
+                  Ossifying fibromyxoid tumour (/chaptercontent/33/117)
+                  Myoepithelioma, myoepithelial carcinoma, and mixed tumour (/chaptercontent/33/118)
+                  Pleomorphic hyalinizing angiectatic tumour of soft parts (/chaptercontent/33/113)
+                  Haemosiderotic fibrolipomatous tumour (/chaptercontent/33/119)
+                  Phosphaturic mesenchymal tumour (/chaptercontent/33/120)
+                  NTRK-rearranged spindle cell neoplasm (emerging) (/chaptercontent/33/254)
+                  Synovial sarcoma (/chaptercontent/33/121)
+                  Epithelioid sarcoma (/chaptercontent/33/127)
+                  Alveolar soft part sarcoma (/chaptercontent/33/129)
+                  Clear cell sarcoma of soft tissue (/chaptercontent/33/124)
+                  Extraskeletal myxoid chondrosarcoma (/chaptercontent/33/125)
+                  Desmoplastic small round cell tumour (/chaptercontent/33/126)
+                  Extrarenal rhabdoid tumour (/chaptercontent/33/128)
+                  PEComa (/chaptercontent/33/130)
+                  Intimal sarcoma (/chaptercontent/33/131)
+                  Undifferentiated sarcoma (/chaptercontent/33/133)
+
+
+
+    3. Undifferentiated small round cell sarcomas of bone and soft tissue                              
+
+https://tumourclassification.iarc.who.int/chapters/33                                                      3/5
+3/9/22, 9:35 PM                                                  BlueBooksOnline
+
+                     Ewing sarcoma (/chaptercontent/33/217)
+                     Round cell sarcoma with EWSR1-non-ETS fusions (/chaptercontent/33/244)
+                     CIC-rearranged sarcoma (/chaptercontent/33/230)
+                     Sarcoma with BCOR genetic alterations (/chaptercontent/33/231)
+
+
+
+    4. Bone tumours                                                                                           
+
+                   Bone tumours: Introduction (/paragraphcontent/33/261)
+                Chondrogenic tumours
+                   Subungual exostosis (/chaptercontent/33/140)
+                   Bizarre parosteal osteochondromatous proliferation (/chaptercontent/33/256)
+                   Periosteal chondroma (/chaptercontent/33/258)
+                   Enchondroma (/chaptercontent/33/137)
+                   Osteochondroma (/chaptercontent/33/136)
+                   Chondroblastoma (/chaptercontent/33/142)
+                   Chondromyxoid fibroma (/chaptercontent/33/138)
+                   Osteochondromyxoma (/chaptercontent/33/139)
+                   Synovial chondromatosis (/chaptercontent/33/141)
+                   Central atypical cartilaginous tumour / chondrosarcoma, grade 1 (/chaptercontent/33/241)
+                   Secondary peripheral atypical cartilaginous tumour / chondrosarcoma, grade 1
+                   (/chaptercontent/33/267)
+                   Central chondrosarcoma, grades 2 and 3 (/chaptercontent/33/143)
+                   Secondary peripheral chondrosarcoma, grades 2 and 3 (/chaptercontent/33/266)
+                   Periosteal chondrosarcoma (/chaptercontent/33/242)
+                   Clear cell chondrosarcoma (/chaptercontent/33/146)
+                   Mesenchymal chondrosarcoma (/chaptercontent/33/145)
+                   Dedifferentiated chondrosarcoma (/chaptercontent/33/144)
+                Osteogenic tumours
+                   Osteoma (/chaptercontent/33/148)
+                   Osteoid osteoma (/chaptercontent/33/149)
+                   Osteoblastoma (/chaptercontent/33/150)
+                   Low-grade central osteosarcoma (/chaptercontent/33/152)
+                   Osteosarcoma (/chaptercontent/33/153)
+                   Parosteal osteosarcoma (/chaptercontent/33/156)
+                   Periosteal osteosarcoma (/chaptercontent/33/157)
+                   High-grade surface osteosarcoma (/chaptercontent/33/158)
+                   Secondary osteosarcoma (/chaptercontent/33/232)
+                Fibrogenic tumours
+                   Desmoplastic fibroma of bone (/chaptercontent/33/168)
+                   Fibrosarcoma of bone (/chaptercontent/33/169)
+                Vascular tumours of bone
+                   Haemangioma of bone (/chaptercontent/33/234)
+                   Epithelioid haemangioma of bone (/chaptercontent/33/235)
+                   Epithelioid haemangioendothelioma of bone (/chaptercontent/33/236)
+                   Angiosarcoma of bone (/chaptercontent/33/237)
+                Osteoclastic giant cell-rich tumours
+                   Aneurysmal bone cyst (/chaptercontent/33/247)
+                   Giant cell tumour of bone (/chaptercontent/33/161)
+https://tumourclassification.iarc.who.int/chapters/33                                                             4/5
+3/9/22, 9:35 PM                                                            BlueBooksOnline
+
+                  Non-ossifying fibroma (/chaptercontent/33/163)
+                Notochordal tumours
+                   Benign notochordal cell tumour (/chaptercontent/33/165)
+                   Conventional chordoma (/chaptercontent/33/166)
+                   Dedifferentiated chordoma (/chaptercontent/33/257)
+                   Poorly differentiated chordoma (/chaptercontent/33/218)
+                Other mesenchymal tumours of bone
+                   Chondromesenchymal hamartoma of chest wall (/chaptercontent/33/172)
+                   Osteofibrous dysplasia (/chaptercontent/33/181)
+                   Adamantinoma of long bones (/chaptercontent/33/177)
+                   Simple bone cyst (/chaptercontent/33/179)
+                   Fibrocartilaginous mesenchymoma (/chaptercontent/33/259)
+                   Fibrous dysplasia (/chaptercontent/33/180)
+                   Lipoma and hibernoma of bone (/chaptercontent/33/239)
+                   Leiomyosarcoma of bone (/chaptercontent/33/238)
+                   Undifferentiated pleomorphic sarcoma (/chaptercontent/33/178)
+                   Bone metastases (/chaptercontent/33/187)
+                Haematopoietic neoplasms of bone
+                   Solitary plasmacytoma of bone (/chaptercontent/33/191)
+                   Primary non-Hodgkin lymphoma of bone (/chaptercontent/33/192)
+                   Langerhans cell histiocytosis (/chaptercontent/33/193)
+                   Erdheim-Chester disease (/chaptercontent/33/194)
+                   Rosai-Dorfman disease (/chaptercontent/33/195)
+
+
+
+    5. Genetic tumour syndromes of soft tissue and bone                                                                              
+
+                     Genetic tumour syndromes of soft tissue and bone: Introduction (/paragraphcontent/33/197)
+                     Enchondromatosis (/chaptercontent/33/200)
+                     Li-Fraumeni syndrome (/chaptercontent/33/202)
+                     McCune-Albright syndrome (/chaptercontent/33/203)
+                     Multiple osteochondromas (/chaptercontent/33/204)
+                     Neurofibromatosis type 1 (/chaptercontent/33/205)
+                     Rothmund-Thomson syndrome (/chaptercontent/33/264)
+                     Werner syndrome (/chaptercontent/33/265)
+
+
+       Terms of use (http://publications.iarc.fr/Terms-Of-Use)          Privacy Policy (https://www.iarc.fr/privacy-policy/)
+                                                        © IARC 1965-2022 — All Rights Reserved (https://www.iarc.fr/copyright-notice/)
+
+
+
+
+https://tumourclassification.iarc.who.int/chapters/33                                                                                    5/5
+

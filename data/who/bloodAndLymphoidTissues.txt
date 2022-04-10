@@ -1,0 +1,366 @@
+3/9/22, 9:41 PM                                                   BlueBooksOnline
+
+
+    Tumours of Haematopoietic and Lymphoid Tissues
+
+    1. Introductions                                                                                              
+
+                Introduction to the website version (/chaptercontent/39/265)
+                Introduction to the WHO classification of tumours of haematopoietic and lymphoid tissues
+                (/paragraphcontent/39/1)
+                Introduction and overview of the classification of the myeloid neoplasms (/chaptercontent/39/2)
+
+
+
+    2. Myeloproliferative neoplasms                                                                               
+
+                Chronic myeloid leukaemia, BCR-ABL1 positive (/chaptercontent/39/4)
+                Chronic neutrophilic leukaemia (/chaptercontent/39/5)
+                Polycythaemia vera (/chaptercontent/39/6)
+                Primary myelofibrosis (/chaptercontent/39/7)
+                Essential thrombocythaemia (/chaptercontent/39/10)
+                Chronic eosinophilic leukaemia, not otherwise specified (/chaptercontent/39/11)
+                Myeloproliferative neoplasm, unclassifiable (/chaptercontent/39/12)
+
+
+
+    3. Mastocytosis                                                                                               
+
+                Mastocytosis (/chaptercontent/39/245)
+                Cutaneous mastocytosis (/chaptercontent/39/14)
+                Systemic mastocytosis (/chaptercontent/39/15)
+                Mast cell sarcoma (/chaptercontent/39/16)
+
+
+
+    4. Myeloid/lymphoid neoplasms with eosinophilia and gene rearrangement                                        
+
+                Introduction (/chaptercontent/39/246)
+                Myeloid/lymphoid neoplasms with PDGFRA rearrangement (/chaptercontent/39/18)
+                Myeloid/lymphoid neoplasms with PDGFRB rearrangement (/chaptercontent/39/19)
+                Myeloid/lymphoid neoplasms with FGFR1 rearrangement (/chaptercontent/39/20)
+                Myeloid/lymphoid neoplasms with PCM1-JAK2 (/chaptercontent/39/21)
+
+
+
+    5. Myelodysplastic/myeloproliferative neoplasms                                                               
+
+                Chronic myelomonocytic leukaemia (/chaptercontent/39/23)
+                Atypical chronic myeloid leukaemia, BCR-ABL1 negative (/chaptercontent/39/24)
+                Juvenile myelomonocytic leukaemia (/chaptercontent/39/25)
+                Myelodysplastic/myeloproliferative neoplasm with ring sideroblasts and thrombocytosis
+                (/chaptercontent/39/26)
+                Myelodysplastic/myeloproliferative neoplasm, unclassifiable (/chaptercontent/39/27)
+
+
+
+https://tumourclassification.iarc.who.int/chapters/39                                                                 1/7
+3/9/22, 9:41 PM                                                  BlueBooksOnline
+
+    6. Myelodysplastic syndromes                                                                                      
+
+                Overview (/chaptercontent/39/29)
+                Myelodysplastic syndrome with single lineage dysplasia (/chaptercontent/39/30)
+                Myelodysplastic syndrome with ring sideroblasts (/chaptercontent/39/31)
+                Myelodysplastic syndrome with multilineage dysplasia (/chaptercontent/39/32)
+                Myelodysplastic syndrome with excess blasts (/chaptercontent/39/33)
+                Myelodysplastic syndrome with isolated del(5q) (/chaptercontent/39/36)
+                Myelodysplastic syndrome, unclassifiable (/chaptercontent/39/37)
+                Childhood myelodysplastic syndrome (/chaptercontent/39/38)
+                   Refractory cytopenia of childhood (/chaptercontent/39/39)
+
+
+
+    7. Myeloid neoplasms with germline predisposition                                                                 
+
+                Introduction (/chaptercontent/39/247)
+                Myeloid neoplasms with germline predisposition without a pre-existing disorder or organ
+                dysfunction
+                    Acute myeloid leukaemia with germline CEBPA mutation (/chaptercontent/39/42)
+                    Myeloid neoplasms with germline DDX41 mutation (/chaptercontent/39/43)
+                Myeloid neoplasms with germline predisposition and pre-existing platelet disorders
+                    Myeloid neoplasms with germline RUNX1 mutation (/chaptercontent/39/45)
+                    Myeloid neoplasms with germline ANKRD26 mutation (/chaptercontent/39/46)
+                    Myeloid neoplasms with germline ETV6 mutation (/chaptercontent/39/47)
+                Myeloid neoplasms with germline predisposition associated with other organ dysfunction
+                    Myeloid neoplasms with germline GATA2 mutation (/chaptercontent/39/49)
+                Myeloid neoplasms with germline predisposition associated with inherited bone failure syndromes and
+                telomere biology disorders (/chaptercontent/39/50)
+
+
+
+    8. Acute myeloid leukaemia and related precursor neoplasms                                                        
+
+                Acute myeloid leukaemia with recurrent genetic abnormalities
+                  Introduction (/chaptercontent/39/53)
+                  Acute myeloid leukaemia with t(8;21)(q22;q22.1); RUNX1-RUNX1T1 (/chaptercontent/39/54)
+                  Acute myeloid leukaemia with inv(16)(p13.1q22) or t(16;16)(p13.1;q22); CBFB-MYH11
+                  (/chaptercontent/39/55)
+                  Acute promyelocytic leukaemia with PML-RARA (/chaptercontent/39/56)
+                  Acute myeloid leukaemia with t(9;11)(p21.3;q23.3); KMT2A-MLLT3 (/chaptercontent/39/57)
+                  Acute myeloid leukaemia with t(6;9)(p23;q34.1); DEK-NUP214 (/chaptercontent/39/58)
+                  Acute myeloid leukaemia with inv(3)(q21.3q26.2) or t(3;3)(q21.3;q26.2); GATA2, MECOM
+                  (/chaptercontent/39/59)
+                  Acute myeloid leukaemia (megakaryoblastic) with t(1;22)(p13.3;q13.1); RBM15-MKL1
+                  (/chaptercontent/39/60)
+                  Acute myeloid leukaemia with BCR-ABL1 (/chaptercontent/39/61)
+                  Acute myeloid leukaemia with gene mutations
+                  Acute myeloid leukaemia with mutated NPM1 (/chaptercontent/39/63)
+                  Acute myeloid leukaemia with biallelic mutation of CEBPA (/chaptercontent/39/64)
+                  Acute myeloid leukaemia with mutated RUNX1 (/chaptercontent/39/65)
+https://tumourclassification.iarc.who.int/chapters/39                                                                     2/7
+3/9/22, 9:41 PM
+                          y                                     (BlueBooksOnline
+                                                                      p               )
+                Acute myeloid leukaemia with myelodysplasia-related changes (/chaptercontent/39/66)
+
+              Therapy-related myeloid neoplasms (/chaptercontent/39/67)
+              Acute myeloid leukaemia, not otherwise specified
+                 Introduction (/chaptercontent/39/248)
+                 Acute myeloid leukaemia with minimal differentiation (/chaptercontent/39/69)
+                 Acute myeloid leukaemia without maturation (/chaptercontent/39/70)
+                 Acute myeloid leukaemia with maturation (/chaptercontent/39/71)
+                 Acute myelomonocytic leukaemia (/chaptercontent/39/72)
+                 Acute monoblastic and monocytic leukaemia (/chaptercontent/39/73)
+                 Pure erythroid leukaemia (/chaptercontent/39/74)
+                 Acute megakaryoblastic leukaemia (/chaptercontent/39/75)
+                 Acute basophilic leukaemia (/chaptercontent/39/76)
+                 Acute panmyelosis with myelofibrosis (/chaptercontent/39/77)
+              Myeloid sarcoma (/chaptercontent/39/78)
+              Myeloid proliferations associated with Down syndrome
+                 Introduction (/chaptercontent/39/249)
+                 Transient abnormal myelopoiesis associated with Down syndrome (/chaptercontent/39/80)
+                 Myeloid leukaemia associated with Down syndrome (/chaptercontent/39/81)
+       Blastic plasmacytoid dendritic cell neoplasm (/chaptercontent/39/82)
+
+
+
+    9. Acute leukaemias of ambiguous lineage                                                                    
+
+             Introduction (/chaptercontent/39/250)
+             Acute undifferentiated leukaemia (/chaptercontent/39/84)
+             Mixed-phenotype acute leukaemia with t(9;22)(q34.1;q11.2); BCR-ABL1 (/chaptercontent/39/85)
+             Mixed-phenotype acute leukaemia with t(v;11q23.3); KMT2A-rearranged (/chaptercontent/39/86)
+             Mixed-phenotype acute leukaemia, B/myeloid, not otherwise specified (/chaptercontent/39/87)
+             Mixed-phenotype acute leukaemia, T/myeloid, not otherwise specified (/chaptercontent/39/88)
+             Mixed-phenotype acute leukaemia, not otherwise specified, rare types (/chaptercontent/39/89)
+             Acute leukaemias of ambiguous lineage, not otherwise specified (/chaptercontent/39/90)
+       Introduction and overview of the classification of the lymphoid neoplasms (/chaptercontent/39/91)
+
+
+
+    10. Precursor lymphoid neoplasms                                                                            
+
+                B-lymphoblastic leukaemia/lymphoma, not otherwise specified (/chaptercontent/39/93)
+                B-lymphoblastic leukaemia/lymphoma with recurrent genetic abnormalities
+                   Introduction (/chaptercontent/39/251)
+                   B-lymphoblastic leukaemia/lymphoma with t(9;22)(q34.1;q11.2); BCR-ABL1 (/chaptercontent/39/95)
+                   B-lymphoblastic leukaemia/lymphoma with t(v;11q23.3); KMT2A-rearranged (/chaptercontent/39/96)
+                   B-lymphoblastic leukaemia/lymphoma with t(12;21)(p13.2;q22.1); ETV6-RUNX1
+                   (/chaptercontent/39/97)
+                   B-lymphoblastic leukaemia/lymphoma with hyperdiploidy (/chaptercontent/39/98)
+                   B-lymphoblastic leukaemia/lymphoma with hypodiploidy (/chaptercontent/39/99)
+                   B-lymphoblastic leukaemia/lymphoma with t(5;14)(q31.1;q32.1); IGH/IL3 (/chaptercontent/39/100)
+                   B-lymphoblastic leukaemia/lymphoma with t(1;19)(q23;p13.3); TCF3-PBX1 (/chaptercontent/39/101)
+                   B-lymphoblastic leukaemia/lymphoma, BCR-ABL1-like (/chaptercontent/39/102)
+https://tumourclassification.iarc.who.int/chapters/39                                                               3/7
+3/9/22, 9:41 PM                                                    BlueBooksOnline
+
+                     B-lymphoblastic leukaemia/lymphoma with iAMP21 (/chaptercontent/39/103)
+
+                T-lymphoblastic leukaemia/lymphoma (/chaptercontent/39/104)
+                    Early T-cell precursor lymphoblastic leukaemia (/chaptercontent/39/105)
+                NK-lymphoblastic leukaemia / lymphoma (/chaptercontent/39/106)
+
+
+
+    11. Mature B-cell neoplasms                                                                           
+
+                Chronic lymphocytic leukaemia/small lymphocytic lymphoma (/chaptercontent/39/108)
+                    Monoclonal B-cell lymphocytosis (/chaptercontent/39/109)
+                B-cell prolymphocytic leukaemia (/chaptercontent/39/110)
+                Splenic marginal zone lymphoma (/chaptercontent/39/111)
+                Hairy cell leukaemia (/chaptercontent/39/112)
+                Splenic B-cell lymphoma/leukaemia, unclassifiable (/chaptercontent/39/113)
+                    Splenic diffuse red pulp small B-cell lymphoma (/chaptercontent/39/114)
+                    Hairy cell leukaemia variant (/chaptercontent/39/115)
+                Lymphoplasmacytic lymphoma (/chaptercontent/39/116)
+                IgM Monoclonal gammopathy of undetermined significance (/chaptercontent/39/117)
+                Heavy chain diseases
+                    Introduction (/chaptercontent/39/252)
+                    Mu heavy chain disease (/chaptercontent/39/119)
+                    Gamma heavy chain disease (/chaptercontent/39/120)
+                    Alpha heavy chain disease (/chaptercontent/39/121)
+                Plasma cell neoplasms
+                    Introduction (/chaptercontent/39/253)
+                    Non-IgM monoclonal gammopathy of undetermined significance (/chaptercontent/39/123)
+                    Plasma cell myeloma (/chaptercontent/39/124)
+                    Plasma cell myeloma variants
+                        Smouldering (asymptomatic) plasma cell myeloma (/chaptercontent/39/126)
+                        Non-secretory myeloma (/chaptercontent/39/127)
+                        Plasma cell leukaemia (/chaptercontent/39/128)
+                    Plasmacytoma (/chaptercontent/39/129)
+                        Solitary plasmacytoma of bone (/chaptercontent/39/130)
+                        Extraosseous plasmacytoma (/chaptercontent/39/131)
+                    Monoclonal immunoglobulin deposition diseases (/chaptercontent/39/132)
+                        Primary amyloidosis (/chaptercontent/39/133)
+                        Light chain and heavy chain deposition diseases (/chaptercontent/39/134)
+                    Plasma cell neoplasms with associated paraneoplastic syndrome
+                        POEMS syndrome (/chaptercontent/39/136)
+                        TEMPI syndrome (/chaptercontent/39/137)
+                Extranodal marginal zone lymphoma of mucosa-associated lymphoid tissue (MALT lymphoma)
+                (/chaptercontent/39/138)
+                Nodal marginal zone lymphoma (/chaptercontent/39/139)
+                Paediatric nodal marginal zone lymphoma (/chaptercontent/39/140)
+                Follicular lymphoma (/chaptercontent/39/141)
+                    In situ follicular neoplasia (/chaptercontent/39/143)
+                    Duodenal-type follicular lymphoma (/chaptercontent/39/144)
+                Paediatric-type follicular lymphoma (/chaptercontent/39/145)
+https://tumourclassification.iarc.who.int/chapters/39                                                         4/7
+3/9/22, 9:41 PM                                                   BlueBooksOnline
+
+                Large B-cell lymphoma with IRF4 rearrangement (/chaptercontent/39/146)
+                Primary cutaneous follicle centre lymphoma (/chaptercontent/39/147)
+                Mantle cell lymphoma (/chaptercontent/39/148)
+                    Leukaemic non-nodal mantle cell lymphoma (/chaptercontent/39/149)
+                    In situ mantle cell neoplasia (/chaptercontent/39/150)
+                Diffuse large B-cell lymphoma (DLBCL), NOS (/chaptercontent/39/151)
+                T-cell/histiocyte-rich large B-cell lymphoma (/chaptercontent/39/152)
+                Primary diffuse large B-cell lymphoma of the CNS (/chaptercontent/39/153)
+                Primary cutaneous diffuse large B-cell lymphoma, leg type (/chaptercontent/39/154)
+                EBV-positive diffuse large B-cell lymphoma, NOS (/chaptercontent/39/155)
+                EBV-positive mucocutaneous ulcer (/chaptercontent/39/156)
+                Diffuse large B-cell lymphoma associated with chronic inflammation (/chaptercontent/39/157)
+                    Fibrin-associated diffuse large B-cell lymphoma (/chaptercontent/39/158)
+                Lymphomatoid granulomatosis (/chaptercontent/39/159)
+                Primary mediastinal (thymic) large B-cell lymphoma (/chaptercontent/39/160)
+                Intravascular large B-cell lymphoma (/chaptercontent/39/161)
+                ALK-positive large B-cell lymphoma (/chaptercontent/39/162)
+                Plasmablastic lymphoma (/chaptercontent/39/163)
+                Primary effusion lymphoma (/chaptercontent/39/164)
+                HHV8-associated lymphoproliferative disorders
+                    Introduction (/chaptercontent/39/255)
+                    Multicentric Castleman disease (/chaptercontent/39/166)
+                    HHV8-positive diffuse large B-cell lymphoma, NOS (/chaptercontent/39/167)
+                    HHV8-positive germinotropic lymphoproliferative disorder (/chaptercontent/39/168)
+                Burkitt lymphoma (/chaptercontent/39/169)
+                Burkitt-like lymphoma with 11q aberration (/chaptercontent/39/170)
+                High-grade B-cell lymphoma
+                    Introduction (/chaptercontent/39/256)
+                    High-grade B-cell lymphoma with MYC and BCL2 and/or BCL6 rearrangements
+                    (/chaptercontent/39/172)
+                    High-grade B-cell lymphoma, NOS (/chaptercontent/39/173)
+                B-cell lymphoma, unclassifi able, with features intermediate between DLBCL and classic Hodgkin
+                lymphoma (/chaptercontent/39/174)
+
+
+
+    12. Mature T- and NK-cell neoplasms                                                                          
+
+                T-cell prolymphocytic leukaemia (/chaptercontent/39/176)
+                T-cell large granular lymphocytic leukaemia (/chaptercontent/39/177)
+                Chronic lymphoproliferative disorder of NK cells (/chaptercontent/39/178)
+                Aggressive NK-cell leukaemia (/chaptercontent/39/179)
+                EBV positive T-cell and NK-cell lymphoproliferative diseases of childhood
+                   Introduction (/chaptercontent/39/257)
+                   Systemic EBV+ T-cell lymphoma of childhood (/chaptercontent/39/181)
+                   Chronic active EBV infection of T- and NK-cell type, systemic form (/chaptercontent/39/182)
+                   Hydroa vacciniforme-like lymphoproliferative disorder (/chaptercontent/39/183)
+                   Severe mosquito bite allergy (/chaptercontent/39/184)
+                Adult T-cell leukaemia/lymphoma (/chaptercontent/39/185)
+                Extranodal NK/T-cell lymphoma, nasal type (/chaptercontent/39/186)
+https://tumourclassification.iarc.who.int/chapters/39                                                                5/7
+3/9/22, 9:41 PM                                                   BlueBooksOnline
+
+                Intestinal T-cell lymphoma
+                   Introduction (/chaptercontent/39/258)
+                   Enteropathy-associated T-cell lymphoma (/chaptercontent/39/188)
+                   Monomorphic epitheliotropic intestinal T-cell lymphoma (/chaptercontent/39/189)
+                   Intestinal T-cell lymphoma, NOS (/chaptercontent/39/190)
+                   Indolent T-cell lymphoproliferative disorder of the gastrointestinal tract (/chaptercontent/39/191)
+                Hepatosplenic T-cell lymphoma (/chaptercontent/39/192)
+                Subcutaneous panniculitis-like T-cell lymphoma (/chaptercontent/39/193)
+                Mycosis fungoides (/chaptercontent/39/194)
+                Sezary syndrome (/chaptercontent/39/195)
+                Primary cutaneous CD30-positive T-cell lymphoproliferative disorders
+                   Introduction (/chaptercontent/39/259)
+                   Lymphomatoid papulosis (/chaptercontent/39/197)
+                   Primary cutaneous anaplastic large cell lymphoma (/chaptercontent/39/198)
+                Primary cutaneous peripheral T-cell lymphomas, rare subtypes
+                   Introduction (/chaptercontent/39/200)
+                   Primary cutaneous gamma delta T-cell lymphoma (/chaptercontent/39/201)
+                   Primary cutaneous CD8-positive aggressive epidermotropic cytotoxic T-cell lymphoma
+                   (/chaptercontent/39/202)
+                   Primary cutaneous acral CD8-positive T-cell lymphoma (/chaptercontent/39/203)
+                   Primary cutaneous CD4+ small/medium T-cell lymphoproliferative disorder (/chaptercontent/39/204)
+                Peripheral T-cell lymphoma, NOS (/chaptercontent/39/205)
+                Angioimmunoblastic T-cell lymphoma and other nodal lymphomas of T follicular helper (TFH) cell
+                origin
+                   Introduction (/chaptercontent/39/260)
+                   Angioimmunoblastic T-cell lymphoma (/chaptercontent/39/207)
+                   Follicular T-cell lymphoma (/chaptercontent/39/208)
+                   Nodal peripheral T-cell lymphoma with TFH phenotype (/chaptercontent/39/209)
+                Anaplastic large cell lymphoma, ALK-positive (/chaptercontent/39/210)
+                Anaplastic large cell lymphoma, ALK-negative (/chaptercontent/39/211)
+                Breast implant-associated anaplastic large cell lymphoma (/chaptercontent/39/212)
+
+
+
+    13. Hodgkin lymphomas                                                                                            
+
+                Introduction (/chaptercontent/39/214)
+                Nodular lymphocyte predominant Hodgkin lymphoma (/chaptercontent/39/215)
+                Classic Hodgkin lymphoma
+                    Introduction (/chaptercontent/39/261)
+                    Nodular sclerosis classic Hodgkin lymphoma (/chaptercontent/39/217)
+                    Lymphocyte-rich classic Hodgkin lymphoma (/chaptercontent/39/218)
+                    Mixed-cellularity classic Hodgkin lymphoma (/chaptercontent/39/219)
+                    Lymphocyte depleted classic Hodgkin lymphoma (/chaptercontent/39/220)
+
+
+
+    14. 16 Immunodeficiency-associated lymphoproliferative disorders                                                 
+
+                Lymphoproliferative diseases associated with primary immune disorders (/chaptercontent/39/222)
+                Lymphomas associated with HIV infection (/chaptercontent/39/223)
+https://tumourclassification.iarc.who.int/chapters/39                                                                    6/7
+3/9/22, 9:41 PM                                                            BlueBooksOnline
+
+                Post-transplant lymphoproliferative disorders (PTLD)
+
+                   Introduction (/chaptercontent/39/262)
+                   Non-destructive PTLD (/chaptercontent/39/225)
+                   Polymorphic PTLD (/chaptercontent/39/226)
+                   Monomorphic PTLD (B- and T/NK-cell types) (/chaptercontent/39/227)
+                       Monomorphic B-cell PTLD (/chaptercontent/39/228)
+                       Monomorphic T/NK-cell PTLD (/chaptercontent/39/229)
+                   Classic Hodgkin lymphoma PTLD (/chaptercontent/39/230)
+                Other iatrogenic immunodefi ciency-associated lymphoproliferative disorders (/chaptercontent/39/231)
+
+
+
+    15. Histiocytic and dendritic cell neoplasms                                                                                     
+
+                Introduction (/chaptercontent/39/233)
+                Histiocytic sarcoma (/chaptercontent/39/234)
+                Tumours derived from Langerhans cells
+                    Introduction (/chaptercontent/39/263)
+                    Langerhans cell histiocytosis (/chaptercontent/39/236)
+                    Langerhans cell sarcoma (/chaptercontent/39/237)
+                Indeterminate dendritic cell tumour (/chaptercontent/39/238)
+                Interdigitating dendritic cell sarcoma (/chaptercontent/39/239)
+                Follicular dendritic cell sarcoma (/chaptercontent/39/240)
+                    Inflammatory EBV+ follicular dendritic cell sarcoma (/chaptercontent/39/241)
+                Fibroblastic reticular cell tumour (/chaptercontent/39/242)
+                Disseminated juvenile xanthogranuloma (/chaptercontent/39/243)
+                Erdheim-Chester disease (/chaptercontent/39/244)
+
+
+       Terms of use (http://publications.iarc.fr/Terms-Of-Use)          Privacy Policy (https://www.iarc.fr/privacy-policy/)
+                                                        © IARC 1965-2022 — All Rights Reserved (https://www.iarc.fr/copyright-notice/)
+
+
+
+
+https://tumourclassification.iarc.who.int/chapters/39                                                                                    7/7
+

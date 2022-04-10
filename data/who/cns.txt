@@ -1,0 +1,266 @@
+3/9/22, 9:38 PM                                                  BlueBooksOnline
+
+
+    Central Nervous System Tumours
+
+    1. Forewords and Introductions                                                                                   
+
+                WHO Classification of Tumours: Editorial Board (/paragraphcontent/45/260)
+                How to cite this volume (/paragraphcontent/45/261)
+                Foreword with changes from the book, including corrigenda (/paragraphcontent/45/262)
+                ICD-O coding of CNS tumours (/paragraphcontent/45/263)
+                Introduction to CNS tumours (/paragraphcontent/45/1)
+
+
+
+    2. Gliomas, glioneuronal tumours, and neuronal tumours                                                           
+
+                      Gliomas, glioneuronal tumours, and neuronal tumours: Introduction (/paragraphcontent/45/216)
+                Gliomas, glioneuronal tumours, and neuronal tumours
+                   Adult-type diffuse gliomas
+                      Astrocytoma, IDH-mutant (/chaptercontent/45/5)
+                      Oligodendroglioma, IDH-mutant and 1p/19q-codeleted (/chaptercontent/45/6)
+                      Glioblastoma, IDH-wildtype (/chaptercontent/45/7)
+                   Paediatric-type diffuse low-grade gliomas
+                      Diffuse astrocytoma, MYB- or MYBL1-altered (/chaptercontent/45/241)
+                      Angiocentric glioma (/chaptercontent/45/24)
+                      Polymorphous low-grade neuroepithelial tumour of the young (/chaptercontent/45/26)
+                      Diffuse low-grade glioma, MAPK pathway-altered (/chaptercontent/45/254)
+                   Paediatric-type diffuse high-grade gliomas
+                      Diffuse midline glioma, H3 K27-altered (/chaptercontent/45/8)
+                      Diffuse hemispheric glioma, H3 G34-mutant (/chaptercontent/45/9)
+                      Diffuse paediatric-type high-grade glioma, H3-wildtype and IDH-wildtype
+                      (/chaptercontent/45/218)
+                      Infant-type hemispheric glioma (/chaptercontent/45/219)
+                   Circumscribed astrocytic gliomas
+                      Pilocytic astrocytoma (/chaptercontent/45/19)
+                      High-grade astrocytoma with piloid features (/chaptercontent/45/27)
+                      Pleomorphic xanthoastrocytoma (/chaptercontent/45/20)
+                      Subependymal giant cell astrocytoma (/chaptercontent/45/21)
+                      Chordoid glioma (/chaptercontent/45/23)
+                      Astroblastoma, MN1-altered (/chaptercontent/45/22)
+                   Glioneuronal and neuronal tumours
+                      Ganglioglioma (/chaptercontent/45/35)
+                      Gangliocytoma (/chaptercontent/45/34)
+                      Desmoplastic infantile ganglioglioma / desmoplastic infantile astrocytoma
+                      (/chaptercontent/45/36)
+                      Dysembryoplastic neuroepithelial tumour (/chaptercontent/45/37)
+                      Diffuse glioneuronal tumour with oligodendroglioma-like features and nuclear clusters
+                      (/chaptercontent/45/236)
+                      Papillary glioneuronal tumour (/chaptercontent/45/39)
+                      Rosette-forming glioneuronal tumour (/chaptercontent/45/38)
+                      Myxoid glioneuronal tumour (/chaptercontent/45/40)
+https://tumourclassification.iarc.who.int/chapters/45                                                                    1/5
+3/9/22, 9:38 PM                                                       BlueBooksOnline
+
+                          Diffuse leptomeningeal glioneuronal tumour (/chaptercontent/45/41)
+
+                       Multinodular and vacuolating neuronal tumour (/chaptercontent/45/33)
+                       Dysplastic cerebellar gangliocytoma (Lhermitte-Duclos disease) (/chaptercontent/45/32)
+                       Central neurocytoma (/chaptercontent/45/29)
+                       Extraventricular neurocytoma (/chaptercontent/45/30)
+                       Cerebellar liponeurocytoma (/chaptercontent/45/31)
+                     Ependymal tumours
+                       Ependymal tumours: Introduction (/paragraphcontent/45/247)
+                       Supratentorial ependymoma (/chaptercontent/45/44)
+                       Supratentorial ependymoma, ZFTA fusion-positive (/chaptercontent/45/229)
+                       Supratentorial ependymoma, YAP1 fusion-positive (/chaptercontent/45/230)
+                       Posterior fossa ependymoma (/chaptercontent/45/49)
+                       Posterior fossa group A (PFA) ependymoma (/chaptercontent/45/231)
+                       Posterior fossa group B (PFB) ependymoma (/chaptercontent/45/232)
+                       Spinal ependymoma (/chaptercontent/45/233)
+                       Spinal ependymoma, MYCN-amplified (/chaptercontent/45/51)
+                       Myxopapillary ependymoma (/chaptercontent/45/52)
+                       Subependymoma (/chaptercontent/45/53)
+
+
+
+    3. Choroid plexus tumours                                                                                   
+
+                          Choroid plexus papilloma (/chaptercontent/45/55)
+                          Atypical choroid plexus papilloma (/chaptercontent/45/56)
+                          Choroid plexus carcinoma (/chaptercontent/45/57)
+
+
+
+    4. Embryonal tumours                                                                                        
+
+                Medulloblastoma
+                      Medulloblastoma: Introduction (/paragraphcontent/45/60)
+                   Medulloblastomas, molecularly defined
+                      Medulloblastoma, WNT-activated (/chaptercontent/45/62)
+                      Medulloblastoma, SHH-activated and TP53-wildtype (/chaptercontent/45/64)
+                      Medulloblastoma, SHH-activated and TP53-mutant (/chaptercontent/45/63)
+                      Medulloblastoma, non-WNT/non-SHH (/chaptercontent/45/65)
+                   Medulloblastomas, histologically defined
+                      Medulloblastoma, histologically defined (/chaptercontent/45/67)
+                Other CNS embryonal tumours
+                      Other CNS embryonal tumours: Introduction (/paragraphcontent/45/242)
+                      Atypical teratoid/rhabdoid tumour (/chaptercontent/45/72)
+                      Cribriform neuroepithelial tumour (/chaptercontent/45/235)
+                      Embryonal tumour with multilayered rosettes (/chaptercontent/45/73)
+                      CNS neuroblastoma, FOXR2-activated (/chaptercontent/45/75)
+                      CNS tumour with BCOR internal tandem duplication (/chaptercontent/45/76)
+                      CNS embryonal tumour NEC/NOS (/chaptercontent/45/257)
+
+
+
+https://tumourclassification.iarc.who.int/chapters/45                                                               2/5
+3/9/22, 9:38 PM                                                     BlueBooksOnline
+
+    5. Pineal tumours                                                                                                
+
+                          Pineal tumours: Introduction (/paragraphcontent/45/258)
+                          Pineocytoma (/chaptercontent/45/78)
+                          Pineal parenchymal tumour of intermediate differentiation (/chaptercontent/45/79)
+                          Pineoblastoma (/chaptercontent/45/80)
+                          Papillary tumour of the pineal region (/chaptercontent/45/81)
+                          Desmoplastic myxoid tumour of the pineal region, SMARCB1-mutant (/chaptercontent/45/224)
+
+
+
+    6. Cranial and paraspinal nerve tumours                                                                          
+
+                          Cranial and paraspinal nerve tumours: Introduction (/paragraphcontent/45/243)
+                          Schwannoma (/chaptercontent/45/83)
+                          Neurofibroma (/chaptercontent/45/84)
+                          Perineurioma (/chaptercontent/45/85)
+                          Hybrid nerve sheath tumours (/chaptercontent/45/86)
+                          Malignant melanotic nerve sheath tumour (/chaptercontent/45/87)
+                          Malignant peripheral nerve sheath tumour (/chaptercontent/45/88)
+                          Cauda equina neuroendocrine tumour (previously paraganglioma) (/chaptercontent/45/42)
+
+
+
+    7. Meningioma                                                                                                    
+
+                          Meningioma (/chaptercontent/45/91)
+
+
+
+    8. Mesenchymal, non-meningothelial tumours involving the CNS                                                     
+
+                       Mesenchymal, non-meningothelial tumours involving the CNS: Introduction
+                       (/paragraphcontent/45/244)
+                Soft tissue tumours
+                   Fibroblastic and myofibroblastic tumours
+                       Solitary fibrous tumour (/chaptercontent/45/120)
+                   Vascular tumours
+                       Haemangiomas and vascular malformations (/chaptercontent/45/125)
+                       Haemangioblastoma (/chaptercontent/45/126)
+                   Skeletal muscle tumours
+                       Rhabdomyosarcoma (/chaptercontent/45/135)
+                   Tumours of uncertain differentiation
+                       Intracranial mesenchymal tumour, FET::CREB fusion-positive (/chaptercontent/45/123)
+                       CIC-rearranged sarcoma (/chaptercontent/45/250)
+                       Primary intracranial sarcoma, DICER1-mutant (/chaptercontent/45/141)
+                       Ewing sarcoma (/chaptercontent/45/139)
+                Chondro-osseous tumours
+                   Chondrogenic tumours
+                       Mesenchymal chondrosarcoma (/chaptercontent/45/144)
+                       Chondrosarcoma (/chaptercontent/45/145)
+                Notochordal tumours
+https://tumourclassification.iarc.who.int/chapters/45                                                                    3/5
+3/9/22, 9:38 PM                                                        BlueBooksOnline
+
+                          Chordoma (/chaptercontent/45/151)
+
+
+
+    9. Melanocytic tumours                                                                                      
+
+                         Melanocytic tumours: Introduction (/paragraphcontent/45/245)
+                     Diffuse meningeal melanocytic neoplasms
+                         Diffuse meningeal melanocytic neoplasms: Melanocytosis and melanomatosis
+                         (/chaptercontent/45/154)
+                     Circumscribed meningeal melanocytic neoplasms
+                         Circumscribed meningeal melanocytic neoplasms: Melanocytoma and melanoma
+                         (/chaptercontent/45/156)
+
+
+
+    10. Haematolymphoid tumours involving the CNS                                                               
+
+                      Haematolymphoid tumours involving the CNS: Introduction (/paragraphcontent/45/228)
+                Lymphomas
+                   CNS lymphomas
+                      Primary diffuse large B-cell lymphoma of the CNS (/chaptercontent/45/162)
+                      Immunodeficiency-associated CNS lymphomas (/chaptercontent/45/163)
+                      Lymphomatoid granulomatosis (/chaptercontent/45/166)
+                      Intravascular large B-cell lymphoma (/chaptercontent/45/167)
+                   Miscellaneous rare lymphomas in the CNS
+                      MALT lymphoma of the dura (/chaptercontent/45/172)
+                      Other low-grade B-cell lymphomas of the CNS (/chaptercontent/45/169)
+                      Anaplastic large cell lymphoma (ALK+/ALK−) (/chaptercontent/45/171)
+                      T-cell and NK/T-cell lymphomas (/chaptercontent/45/170)
+                Histiocytic tumours
+                      Erdheim-Chester disease (/chaptercontent/45/174)
+                      Rosai-Dorfman disease (/chaptercontent/45/175)
+                      Juvenile xanthogranuloma (/chaptercontent/45/176)
+                      Langerhans cell histiocytosis (/chaptercontent/45/177)
+                      Histiocytic sarcoma (/chaptercontent/45/178)
+
+
+
+    11. Germ cell tumours                                                                                       
+
+                          Germ cell tumours of the CNS (/chaptercontent/45/240)
+
+
+
+    12. Tumours of the sellar region                                                                            
+
+                          Tumours of the sellar region: Introduction (number corrected was 12.0.0.1)
+                          (/paragraphcontent/45/256)
+                          Adamantinomatous craniopharyngioma (/chaptercontent/45/188)
+                          Papillary craniopharyngioma (/chaptercontent/45/252)
+                          Pituicytoma, granular cell tumour of the sellar region, and spindle cell oncocytoma
+                          (/chaptercontent/45/189)
+https://tumourclassification.iarc.who.int/chapters/45                                                               4/5
+3/9/22, 9:38 PM                                                            BlueBooksOnline
+                          (/chaptercontent/45/189)
+                          Pituitary adenoma / pituitary neuroendocrine tumour (/chaptercontent/45/191)
+
+                          Pituitary blastoma (/chaptercontent/45/246)
+
+
+
+    13. Metastases to the CNS                                                                                                        
+
+                          Metastases to the brain and spinal cord parenchyma (/chaptercontent/45/193)
+                          Metastases to the meninges (/chaptercontent/45/194)
+
+
+
+    14. Genetic tumour syndromes involving the CNS                                                                                   
+
+                          Genetic tumour syndromes of the nervous system: Introduction (/paragraphcontent/45/227)
+                          Neurofibromatosis type 1 (/chaptercontent/45/196)
+                          Neurofibromatosis type 2 (/chaptercontent/45/197)
+                          Schwannomatosis (/chaptercontent/45/198)
+                          Von Hippel-Lindau syndrome (/chaptercontent/45/199)
+                          Tuberous sclerosis (/chaptercontent/45/200)
+                          Li-Fraumeni syndrome (/chaptercontent/45/201)
+                          Cowden syndrome (/chaptercontent/45/202)
+                          Constitutional mismatch repair deficiency syndrome (/chaptercontent/45/203)
+                          Familial adenomatous polyposis 1 (/chaptercontent/45/204)
+                          Naevoid basal cell carcinoma syndrome (/chaptercontent/45/206)
+                          Rhabdoid tumour predisposition syndrome (/chaptercontent/45/207)
+                          Carney complex (/chaptercontent/45/209)
+                          DICER1 syndrome (/chaptercontent/45/210)
+                          Familial paraganglioma syndromes (/chaptercontent/45/211)
+                          Melanoma-astrocytoma syndrome (/chaptercontent/45/212)
+                          Familial retinoblastoma (/chaptercontent/45/213)
+                          BAP1 tumour predisposition syndrome (/chaptercontent/45/214)
+                          Fanconi anaemia (/chaptercontent/45/215)
+                          ELP1-medulloblastoma syndrome (/chaptercontent/45/239)
+
+
+       Terms of use (http://publications.iarc.fr/Terms-Of-Use)          Privacy Policy (https://www.iarc.fr/privacy-policy/)
+                                                        © IARC 1965-2022 — All Rights Reserved (https://www.iarc.fr/copyright-notice/)
+
+
+
+
+https://tumourclassification.iarc.who.int/chapters/45                                                                                    5/5
+

@@ -1,0 +1,569 @@
+3/9/22, 9:36 PM                                                 BlueBooksOnline
+
+
+    Female Genital Tumours
+
+    1. Foreword                                                                                                     
+
+                WHO Classification of Tumours: Editorial Board (/paragraphcontent/34/535)
+                How to cite this volume (/paragraphcontent/34/536)
+                Foreword with changes from the book, including corrigenda (/paragraphcontent/34/534)
+                WHO classification of tumours of the female genital tract: ICD-O coding
+                (/paragraphcontent/34/538)
+                General introduction (/paragraphcontent/34/526)
+
+
+
+    2. Tumours of the ovary                                                                                         
+
+                Tumours of the ovary: Introduction (/paragraphcontent/34/2)
+                Serous tumours
+                   Benign serous tumours
+                      Serous cystadenoma, adenofibroma, and surface papilloma of the ovary (/chaptercontent/34/5)
+                   Borderline serous tumours
+                      Serous borderline tumour of the ovary (/chaptercontent/34/9)
+                   Malignant serous tumours
+                      Low-grade serous carcinoma of the ovary (/chaptercontent/34/12)
+                      High-grade serous carcinoma of the ovary (/chaptercontent/34/13)
+                Mucinous tumours
+                   Benign mucinous tumours
+                      Mucinous cystadenoma and adenofibroma (/chaptercontent/34/16)
+                   Borderline mucinous tumours
+                      Mucinous borderline tumour (/chaptercontent/34/19)
+                   Malignant mucinous tumours
+                      Mucinous carcinoma of the ovary (/chaptercontent/34/21)
+                Endometrioid tumours
+                   Benign endometrioid tumours
+                      Endometrioid cystadenoma and adenofibroma (/chaptercontent/34/24)
+                   Borderline endometrioid tumours
+                      Endometrioid borderline tumour (/chaptercontent/34/27)
+                   Malignant endometrioid tumours
+                      Endometrioid carcinoma of the ovary (/chaptercontent/34/29)
+                Clear cell tumours
+                   Benign clear cell tumours
+                      Clear cell cystadenoma and adenofibroma (/chaptercontent/34/32)
+                   Borderline clear cell tumours
+                      Clear cell borderline tumour (/chaptercontent/34/35)
+                   Malignant clear cell tumours
+                      Clear cell carcinoma of the ovary (/chaptercontent/34/37)
+                Seromucinous tumours
+                   Benign seromucinous tumours
+                      Seromucinous cystadenoma and adenofibroma (/chaptercontent/34/47)
+                   Borderline seromucinous tumours
+https://tumourclassification.iarc.who.int/chapters/34                                                               1/11
+3/9/22, 9:36 PM                                                     BlueBooksOnline
+
+                          Seromucinous borderline tumour (/chaptercontent/34/50)
+
+                   Malignant seromucinous tumours
+                      Seromucinous carcinoma (/paragraphcontent/34/52)
+                Brenner tumours
+                   Benign Brenner tumours
+                      Brenner tumour (/chaptercontent/34/40)
+                   Borderline Brenner tumours
+                      Borderline Brenner tumour (/chaptercontent/34/42)
+                   Malignant Brenner tumours
+                      Malignant Brenner tumour (/chaptercontent/34/44)
+                Other carcinomas
+                      Mesonephric-like adenocarcinoma (/chaptercontent/34/111)
+                      Undifferentiated and dedifferentiated carcinomas of the ovary (/chaptercontent/34/55)
+                      Carcinosarcoma of the ovary (/chaptercontent/34/64)
+                      Mixed carcinoma of the ovary (/chaptercontent/34/10)
+                Mesenchymal tumours
+                      Endometrioid stromal sarcoma of the ovary (/chaptercontent/34/57)
+                      Smooth muscle tumours of the ovary (/chaptercontent/34/59)
+                      Ovarian myxoma (/chaptercontent/34/476)
+                      Other ovarian mesenchymal tumours (/paragraphcontent/34/60)
+                Mixed epithelial and mesenchymal tumours
+                   Mixed malignant epithelial and mesenchymal tumours
+                      Adenosarcoma of the ovary (/chaptercontent/34/63)
+                Sex cord-stromal tumours
+                   Pure stromal tumours
+                      Ovarian fibroma (/chaptercontent/34/67)
+                      Thecoma (/chaptercontent/34/69)
+                      Luteinized thecoma associated with sclerosing peritonitis (/chaptercontent/34/70)
+                      Sclerosing stromal tumour (/chaptercontent/34/71)
+                      Microcystic stromal tumour (/chaptercontent/34/72)
+                      Signet-ring stromal tumour (/chaptercontent/34/73)
+                      Leydig cell tumour (/chaptercontent/34/74)
+                      Steroid cell tumour (/chaptercontent/34/75)
+                      Ovarian fibrosarcoma (/chaptercontent/34/68)
+                   Pure sex cord tumours
+                      Adult granulosa cell tumour (/chaptercontent/34/77)
+                      Juvenile granulosa cell tumour (/chaptercontent/34/78)
+                      Sertoli cell tumour (/chaptercontent/34/79)
+                      Sex cord tumour with annular tubules (/chaptercontent/34/80)
+                   Mixed sex cord-stromal tumours
+                      Sertoli-Leydig cell tumour (/chaptercontent/34/82)
+                      Sex cord-stromal tumour NOS (/chaptercontent/34/83)
+                      Gynandroblastoma (/chaptercontent/34/17)
+                Germ cell tumours
+                      Mature teratoma of the ovary (/chaptercontent/34/90)
+                      Immature teratoma of the ovary (/chaptercontent/34/91)
+                      Dysgerminoma (/chaptercontent/34/86)
+                      Yolk sac tumour (/chaptercontent/34/87)
+https://tumourclassification.iarc.who.int/chapters/34                                                         2/11
+3/9/22, 9:36 PM                                                     BlueBooksOnline
+
+                     Embryonal carcinoma (/chaptercontent/34/88)
+                     Non-gestational choriocarcinoma (/chaptercontent/34/89)
+                     Mixed germ cell tumour of the ovary (/chaptercontent/34/92)
+                  Monodermal teratomas and somatic-type tumours arising from a dermoid cyst
+                     Struma ovarii (/chaptercontent/34/94)
+                     Ovarian carcinoid (/chaptercontent/34/95)
+                     Neuroectodermal-type tumours (/chaptercontent/34/96)
+                     Monodermal cystic teratoma (/chaptercontent/34/98)
+                     Somatic neoplasms arising from teratomas (/chaptercontent/34/99)
+                  Germ cell-sex cord-stromal tumours
+                     Gonadoblastoma (/chaptercontent/34/102)
+                     Mixed germ cell-sex cord-stromal tumour, unclassified (/chaptercontent/34/103)
+                Miscellaneous tumours
+                     Rete cystadenoma, adenoma, and adenocarcinoma (/chaptercontent/34/106)
+                     Wolffian tumour of the ovary (/chaptercontent/34/108)
+                     Solid pseudopapillary tumour (/chaptercontent/34/516)
+                     Small cell carcinoma of the ovary, hypercalcaemic type (/chaptercontent/34/109)
+                     Wilms tumour (/chaptercontent/34/110)
+                Mesothelial tumours (see Tumours of the peritoneum)
+                Tumour-like lesions
+                     Follicle cyst (/chaptercontent/34/116)
+                     Corpus luteum cyst (/chaptercontent/34/117)
+                     Large solitary luteinized follicle cyst (/chaptercontent/34/118)
+                     Hyperreactio luteinalis (/chaptercontent/34/119)
+                     Pregnancy luteoma (/chaptercontent/34/120)
+                     Stromal hyperplasia and hyperthecosis (/chaptercontent/34/121)
+                     Fibromatosis and massive oedema (/chaptercontent/34/123)
+                     Leydig cell hyperplasia (/chaptercontent/34/125)
+                Metastases
+                     Metastases to the ovary (/chaptercontent/34/509)
+
+
+
+    3. Endometriosis and related conditions                                                            
+
+                          Endometriosis and derived tumours (/chaptercontent/34/131)
+
+
+
+    4. Tumours of the peritoneum                                                                       
+
+                   Tumours of the peritoneum: Introduction (/paragraphcontent/34/520)
+                Mesothelial tumours
+                      Adenomatoid tumour (/chaptercontent/34/136)
+                      Well-differentiated papillary mesothelial tumour (/chaptercontent/34/137)
+                      Mesothelioma (/chaptercontent/34/138)
+                Epithelial tumours
+                   Epithelial tumours of Mullerian type
+                      Serous borderline tumour of the peritoneum (/chaptercontent/34/141)
+                      Low-grade serous carcinoma of the peritoneum (/chaptercontent/34/142)
+                      High-grade serous carcinoma of the peritoneum (/chaptercontent/34/143)
+https://tumourclassification.iarc.who.int/chapters/34                                                  3/11
+3/9/22, 9:36 PM                                                  BlueBooksOnline
+
+                Mesenchymal tumours specific to peritoneum
+
+                  Smooth muscle tumours
+                     Leiomyomatosis peritonealis disseminata (/chaptercontent/34/147)
+                  Miscellaneous primary tumours
+                     Desmoid fibromatosis (/chaptercontent/34/149)
+                     Calcifying fibrous tumour (/chaptercontent/34/151)
+                     Extragastrointestinal stromal tumour (/chaptercontent/34/152)
+                     Solitary fibrous tumour of the peritoneum (/chaptercontent/34/153)
+                     Endometrioid stromal sarcoma of the peritoneum (/chaptercontent/34/97)
+                     Desmoplastic small round cell tumour (/chaptercontent/34/144)
+                Tumour-like lesions
+                     Mesothelial hyperplasia (/chaptercontent/34/155)
+                     Peritoneal inclusion cysts (/chaptercontent/34/156)
+                     Transitional cell metaplasia (/chaptercontent/34/157)
+                     Endosalpingiosis of the peritoneum (/chaptercontent/34/158)
+                     Histiocytic nodule (/chaptercontent/34/159)
+                     Ectopic decidua (/chaptercontent/34/160)
+                     Splenosis (/chaptercontent/34/161)
+                     Other tumour-like lesions of the peritoneum (/chaptercontent/34/162)
+                Metastases
+                     Carcinomas and sarcomas metastatic to the peritoneum (/chaptercontent/34/164)
+                     Pseudomyxoma peritonei (/chaptercontent/34/165)
+                     Gliomatosis (/chaptercontent/34/167)
+
+
+
+    5. Tumours of the fallopian tube                                                                     
+
+                   Tumours of the fallopian tube: Introduction (/paragraphcontent/34/521)
+                Epithelial tumours
+                   Benign serous tumours
+                      Serous adenofibroma and papilloma of the fallopian tube (/chaptercontent/34/172)
+                   Borderline serous tumours
+                      Serous borderline tumour of the fallopian tube (/chaptercontent/34/176)
+                   Malignant epithelial tumours
+                      High-grade serous carcinoma of the fallopian tube (/chaptercontent/34/177)
+                      Endometrioid carcinoma of the fallopian tube (/chaptercontent/34/178)
+                      Carcinosarcoma of the fallopian tube (/chaptercontent/34/194)
+                Tumour-like lesions
+                      Paratubal cysts (/chaptercontent/34/170)
+                      Tubal hyperplasia (/chaptercontent/34/183)
+                      Tubo-ovarian abscess (/chaptercontent/34/184)
+                      Salpingitis isthmica nodosa (/chaptercontent/34/185)
+                      Metaplastic papillary lesion (/chaptercontent/34/186)
+                      Placental site nodule occurring in the fallopian tube (/chaptercontent/34/187)
+                      Mucinous metaplasia (/chaptercontent/34/188)
+                      Endosalpingiosis of the fallopian tube (/paragraphcontent/34/190)
+                Mixed epithelial and mesenchymal tumours
+                      Adenosarcoma of the fallopian tube (/chaptercontent/34/193)
+https://tumourclassification.iarc.who.int/chapters/34                                                    4/11
+3/9/22, 9:36 PM                                                   BlueBooksOnline
+
+                Germ cell tumours
+                     Teratoma of the fallopian tube (/chaptercontent/34/203)
+
+
+
+    6. Tumours of the broad ligament and other uterine ligaments                                                       
+
+                  Tumours of the broad ligament and other uterine ligaments: Introduction (/paragraphcontent/34/522)
+                Mesenchymal and mixed tumours
+                     Leiomyoma of the broad ligament and other uterine ligaments (/chaptercontent/34/206)
+                     Adenomyoma of the broad ligament and other uterine ligaments (/chaptercontent/34/207)
+                     Adenosarcoma of the broad ligament and other uterine ligaments (/chaptercontent/34/208)
+                     Leiomyosarcoma of the broad ligament and other uterine ligaments (/chaptercontent/34/209)
+                     Other mesenchymal and mixed tumours of the broad ligament and other uterine ligaments
+                     (/paragraphcontent/34/210)
+                Miscellaneous tumours
+                     Wolffian tumour of the broad ligament and other uterine ligaments (/chaptercontent/34/212)
+                     Papillary cystadenoma (/chaptercontent/34/213)
+                     Ependymoma (/chaptercontent/34/214)
+                Tumour-like lesions
+                     Adrenocortical remnants (/chaptercontent/34/216)
+
+
+
+    7. Tumours of the uterine corpus                                                                                   
+
+                  Tumours of the uterine corpus: Introduction (/paragraphcontent/34/523)
+                Endometrial epithelial tumours and precursors
+                  Precursor lesions
+                     Endometrial hyperplasia without atypia (/chaptercontent/34/220)
+                     Endometrial atypical hyperplasia / endometrioid intraepithelial neoplasia
+                     (/chaptercontent/34/221)
+                  Endometrial carcinomas
+                     Endometrioid carcinoma of the uterine corpus (/chaptercontent/34/223)
+                     Serous carcinoma of the uterine corpus (/chaptercontent/34/225)
+                     Clear cell carcinoma of the uterine corpus (/chaptercontent/34/226)
+                     Undifferentiated and dedifferentiated carcinomas of the uterine corpus (/chaptercontent/34/227)
+                     Mixed carcinoma of the uterine corpus (/chaptercontent/34/228)
+                     Other endometrial carcinomas (/chaptercontent/34/124)
+                     Carcinosarcoma of the uterine corpus (/chaptercontent/34/260)
+                Tumour-like lesions
+                  Tumour-like lesions
+                     Endometrial polyp (/chaptercontent/34/231)
+                     Endometrial metaplasia (/chaptercontent/34/232)
+                     Arias-Stella reaction of the uterine corpus (/chaptercontent/34/233)
+                Mesenchymal tumours of the uterus
+                  Smooth muscle tumours
+                     Uterine leiomyoma (/chaptercontent/34/237)
+                     Intravenous leiomyomatosis (/chaptercontent/34/239)
+                     Smooth muscle tumour of uncertain malignant potential of the uterine corpus
+                     (/chaptercontent/34/241)
+https://tumourclassification.iarc.who.int/chapters/34                                                                  5/11
+3/9/22, 9:36 PM                                                   BlueBooksOnline
+
+                     Metastasizing leiomyoma (/chaptercontent/34/240)
+                     Uterine leiomyosarcoma (/chaptercontent/34/242)
+                  Endometrial stromal and related tumours
+                     Endometrial stromal nodule (/chaptercontent/34/244)
+                     Low-grade endometrial stromal sarcoma (/chaptercontent/34/245)
+                     High-grade endometrial stromal sarcoma (/chaptercontent/34/246)
+                     Undifferentiated uterine sarcoma (/chaptercontent/34/247)
+                  Miscellaneous mesenchymal tumours
+                     Uterine tumour resembling ovarian sex cord tumour (/chaptercontent/34/248)
+                     Perivascular epithelioid cell tumour (PEComa) (/chaptercontent/34/251)
+                     Inflammatory myofibroblastic tumour (/chaptercontent/34/252)
+                     Other mesenchymal tumours of the uterus (/paragraphcontent/34/253)
+                Mixed epithelial and mesenchymal tumours
+                  Mixed epithelial and mesenchymal tumours
+                     Adenomyoma of the uterine corpus (/chaptercontent/34/256)
+                     Atypical polypoid adenomyoma (/chaptercontent/34/257)
+                     Adenosarcoma of the uterine corpus (/chaptercontent/34/259)
+                Miscellaneous tumours
+                     Central primitive neuroectodermal tumour / CNS embryonal tumour (/chaptercontent/34/263)
+                     Germ cell tumours of the uterine corpus (/chaptercontent/34/264)
+
+
+
+    8. Gestational trophoblastic disease                                                                        
+
+                  Gestational trophoblastic disease: Introduction (/paragraphcontent/34/524)
+                Tumour-like lesions
+                  Non-neoplastic lesions
+                     Exaggerated placental site reaction (/chaptercontent/34/274)
+                     Placental site nodule and plaque (/chaptercontent/34/275)
+                Abnormal (non-molar) villous lesions (/chaptercontent/34/276)
+                Molar pregnancies
+                  Molar pregnancies
+                     Partial hydatidiform mole (/chaptercontent/34/479)
+                     Complete hydatidiform mole (/chaptercontent/34/279)
+                     Invasive and metastatic hydatidiform moles (/chaptercontent/34/480)
+                Gestational trophoblastic neoplasms
+                  Gestational trophoblastic neoplasms
+                     Epithelioid trophoblastic tumour (/chaptercontent/34/269)
+                     Placental site trophoblastic tumour (/chaptercontent/34/270)
+                     Gestational choriocarcinoma (/chaptercontent/34/271)
+                     Mixed trophoblastic tumour (/chaptercontent/34/477)
+
+
+
+    9. Tumours of the uterine cervix                                                                            
+
+                  Tumours of the uterine cervix: Introduction (/paragraphcontent/34/518)
+                Squamous epithelial tumours
+                  Mimics of squamous precursor lesions
+                    Squamous metaplasia (/chaptercontent/34/283)
+https://tumourclassification.iarc.who.int/chapters/34                                                           6/11
+3/9/22, 9:36 PM                                                        BlueBooksOnline
+
+                          Atrophy of the uterine cervix (/chaptercontent/34/286)
+
+                   Squamous cell tumours and precursors
+                      Condyloma acuminatum (see Tumours of the vulva) (/paragraphcontent/34/284)
+                      Squamous intraepithelial lesions of the uterine cervix (/chaptercontent/34/288)
+                      Squamous cell carcinoma, HPV-associated, of the uterine cervix (/chaptercontent/34/127)
+                      Squamous cell carcinoma, HPV-independent, of the uterine cervix (/chaptercontent/34/289)
+                      Squamous cell carcinoma NOS of the uterine cervix (/paragraphcontent/34/529)
+                Glandular tumours and precursors
+                   Benign glandular lesions
+                      Endocervical polyp (/chaptercontent/34/291)
+                      Mullerian papilloma of the uterine cervix (/chaptercontent/34/292)
+                      Nabothian cyst (/chaptercontent/34/293)
+                      Tunnel clusters (/chaptercontent/34/294)
+                      Microglandular hyperplasia (/chaptercontent/34/295)
+                      Lobular endocervical glandular hyperplasia (/chaptercontent/34/296)
+                      Diffuse laminar endocervical hyperplasia (/chaptercontent/34/297)
+                      Mesonephric remnants and hyperplasia (/chaptercontent/34/298)
+                      Arias-Stella reaction of the uterine cervix (/chaptercontent/34/299)
+                      Endocervicosis of the uterine cervix (/chaptercontent/34/300)
+                      Tuboendometrioid metaplasia (/chaptercontent/34/301)
+                      Ectopic prostate tissue (/chaptercontent/34/302)
+                   Adenocarcinomas
+                      Adenocarcinoma in situ, HPV-associated, of the uterine cervix (/chaptercontent/34/496)
+                      Adenocarcinoma, HPV-associated, of the uterine cervix (/chaptercontent/34/305)
+                      Adenocarcinoma in situ, HPV-independent, of the uterine cervix (/chaptercontent/34/505)
+                      Adenocarcinoma, HPV-independent, gastric type, of the uterine cervix (/chaptercontent/34/508)
+                      Adenocarcinoma, HPV-independent, clear cell type, of the uterine cervix
+                      (/chaptercontent/34/507)
+                      Adenocarcinoma, HPV-independent, mesonephric type, of the uterine cervix
+                      (/chaptercontent/34/175)
+                      Other adenocarcinomas of the uterine cervix (/chaptercontent/34/528)
+                Other epithelial tumours
+                      Carcinosarcoma of the uterine cervix (/chaptercontent/34/322)
+                      Adenosquamous and mucoepidermoid carcinomas of the uterine cervix (/chaptercontent/34/309)
+                      Adenoid basal carcinoma of the uterine cervix (/chaptercontent/34/311)
+                      Carcinoma of the uterine cervix, unclassifiable (/chaptercontent/34/313)
+                Mixed epithelial and mesenchymal tumours
+                   Mixed epithelial and mesenchymal tumours
+                      Adenomyoma of the uterine cervix (/chaptercontent/34/320)
+                      Adenosarcoma of the uterine cervix (/chaptercontent/34/321)
+                Germ cell tumours
+                   Germ cell tumours of the uterine cervix (/chaptercontent/34/324)
+
+
+
+    10. Tumours of the vagina                                                                                     
+
+                   Tumours of the vagina: Introduction (/paragraphcontent/34/519)
+                Epithelial tumours
+https://tumourclassification.iarc.who.int/chapters/34                                                                 7/11
+3/9/22, 9:36 PM                                                   BlueBooksOnline
+
+                  Benign squamous lesions
+                     Condyloma acuminatum (see Tumours of the vulva) (/paragraphcontent/34/329)
+                     Squamous papilloma of the vagina (/chaptercontent/34/330)
+                     Atrophy of the vagina (/chaptercontent/34/331)
+                     Tubulosquamous polyp (/chaptercontent/34/332)
+                  Squamous cell tumours and precursors
+                     Squamous intraepithelial lesions of the vagina (/chaptercontent/34/335)
+                     Squamous cell carcinoma, HPV-associated, of the vagina (/chaptercontent/34/336)
+                     Squamous cell carcinoma, HPV-independent, of the vagina (/chaptercontent/34/489)
+                     Squamous cell carcinoma NOS of the vagina (/paragraphcontent/34/531)
+                  Benign glandular lesions
+                     Villous adenoma (/chaptercontent/34/338)
+                     Mullerian papilloma of the vagina (/chaptercontent/34/339)
+                     Vaginal adenosis (/chaptercontent/34/340)
+                     Endocervicosis of the vagina (/chaptercontent/34/342)
+                     Cysts of the vagina (/chaptercontent/34/343)
+                  Glandular tumours
+                     Adenocarcinoma, HPV-associated, of the vagina (/chaptercontent/34/317)
+                     Endometrioid carcinoma of the vagina (/chaptercontent/34/345)
+                     Clear cell carcinoma of the vagina (/chaptercontent/34/346)
+                     Mucinous carcinoma, gastric type, of the vagina (/chaptercontent/34/347)
+                     Mucinous carcinoma, intestinal type, of the vagina (/chaptercontent/34/285)
+                     Mesonephric adenocarcinoma of the vagina (/chaptercontent/34/348)
+                     Carcinosarcoma of the vagina (/chaptercontent/34/358)
+                  Other epithelial tumours
+                     Mixed tumour of the vagina (/chaptercontent/34/350)
+                     Adenocarcinoma of Skene gland origin (/chaptercontent/34/392)
+                     Adenosquamous carcinoma of the vagina (/chaptercontent/34/351)
+                     Adenoid basal carcinoma of the vagina (/paragraphcontent/34/352)
+                Mixed epithelial and mesenchymal tumours
+                     Adenosarcoma of the vagina (/chaptercontent/34/357)
+                Miscellaneous tumours
+                     Germ cell tumours of the vagina (/chaptercontent/34/360)
+
+
+
+    11. Tumours of the vulva                                                                                    
+
+                   Tumours of the vulva: Introduction (/paragraphcontent/34/525)
+                Epithelial tumours
+                   Benign squamous lesions
+                      Seborrhoeic keratosis (/chaptercontent/34/370)
+                      Condyloma acuminatum (/chaptercontent/34/368)
+                   Squamous cell tumours and precursors
+                      Squamous intraepithelial lesions, HPV-associated, of the vulva (/chaptercontent/34/488)
+                      Vulvar intraepithelial neoplasia, HPV-independent (/chaptercontent/34/372)
+                      Squamous cell carcinoma, HPV-associated, of the vulva (/chaptercontent/34/373)
+                      Squamous cell carcinoma, HPV-independent, of the vulva (/chaptercontent/34/500)
+                      Squamous cell carcinoma NOS of the vulva (/paragraphcontent/34/532)
+                      Basal cell carcinoma (/paragraphcontent/34/374)
+https://tumourclassification.iarc.who.int/chapters/34                                                           8/11
+3/9/22, 9:36 PM                                                    BlueBooksOnline
+
+                     Glandular tumours and cysts
+                        Mammary-type glandular lesions
+                        Papillary hidradenoma (/chaptercontent/34/376)
+                        Chondroid syringoma (/chaptercontent/34/377)
+                        Fibroadenoma (/chaptercontent/34/378)
+                        Phyllodes tumour (/chaptercontent/34/393)
+                        Adenocarcinoma of mammary gland type (/chaptercontent/34/391)
+                     Bartholin gland lesions
+                        Bartholin gland cyst (/chaptercontent/34/381)
+                        Bartholin gland hyperplasia, adenoma, and adenomyoma (/chaptercontent/34/512)
+                        Bartholin gland carcinomas (/chaptercontent/34/382)
+                     Other cysts of the vulva (/chaptercontent/34/383)
+                  Adenocarcinomas of other types
+                     Paget disease (/chaptercontent/34/395)
+                     Carcinomas of sweat gland origin (/chaptercontent/34/396)
+                     Adenocarcinoma of intestinal type (/chaptercontent/34/397)
+                Germ cell tumours
+                     Germ cell tumours of the vulva (/chaptercontent/34/399)
+
+
+
+    12. Neuroendocrine neoplasia                                                                             
+
+                     Neuroendocrine neoplasia: Introduction (/paragraphcontent/34/533)
+                     Neuroendocrine tumour
+                        Neuroendocrine tumour (/chaptercontent/34/404)
+                     Neuroendocrine carcinoma
+                        Small cell neuroendocrine carcinoma (/chaptercontent/34/406)
+                        Large cell neuroendocrine carcinoma (/chaptercontent/34/407)
+                     Mixed neuroendocrine-non-neuroendocrine neoplasms
+                        Carcinoma admixed with neuroendocrine carcinoma (/chaptercontent/34/409)
+
+
+
+    13. Haematolymphoid proliferations and neoplasia                                                         
+
+                     Haematolymphoid proliferations and neoplasia: Introduction (/paragraphcontent/34/515)
+                     Reactive lymphoid hyperplasia
+                        Florid reactive lymphoid hyperplasia (/chaptercontent/34/234)
+                     Lymphomas
+                        Diffuse large B-cell lymphoma (/chaptercontent/34/411)
+                        Extranodal marginal zone lymphoma (/chaptercontent/34/482)
+                        Follicular lymphoma (/chaptercontent/34/484)
+                        Burkitt lymphoma (/chaptercontent/34/412)
+                     Myeloid leukaemia
+                        Myeloid sarcoma (/chaptercontent/34/494)
+
+
+
+    14. Mesenchymal tumours of the lower genital tract                                                       
+
+                Mesenchymal tumours of the lower genital tract: Introduction (/paragraphcontent/34/517)
+https://tumourclassification.iarc.who.int/chapters/34                                                        9/11
+3/9/22, 9:36 PM                                                     BlueBooksOnline
+
+                     Adipocytic tumours
+
+                        Lipoma (/chaptercontent/34/415)
+                        Lipoblastoma-like tumour of the vulva (/chaptercontent/34/527)
+                        Liposarcoma (/chaptercontent/34/416)
+                     Fibroblastic and myofibroblastic tumours
+                        Postoperative spindle cell nodule (/chaptercontent/34/316)
+                        Fibroepithelial stromal polyp (/chaptercontent/34/418)
+                        Prepubertal fibroma (/chaptercontent/34/502)
+                        Superficial myofibroblastoma (/chaptercontent/34/420)
+                        Myofibroblastoma (/chaptercontent/34/419)
+                        Cellular angiofibroma (/chaptercontent/34/421)
+                        Angiomyofibroblastoma (/chaptercontent/34/422)
+                        Solitary fibrous tumour of the lower genital tract (/chaptercontent/34/423)
+                        Dermatofibrosarcoma protuberans (/chaptercontent/34/424)
+                        NTRK-rearranged spindle cell neoplasm (emerging) (/chaptercontent/34/425)
+                     Vascular tumours
+                        Kaposi sarcoma (/chaptercontent/34/429)
+                        Angiosarcoma (/chaptercontent/34/430)
+                     Smooth muscle tumours
+                        Leiomyoma of the lower genital tract (/chaptercontent/34/432)
+                        Smooth muscle tumour of uncertain malignant potential of the lower genital tract
+                        (/chaptercontent/34/501)
+                        Leiomyosarcoma of the lower genital tract (/chaptercontent/34/433)
+                     Skeletal muscle tumours
+                        Rhabdomyoma (/chaptercontent/34/435)
+                        Rhabdomyosarcoma (/chaptercontent/34/436)
+                     Peripheral nerve sheath tumours
+                        Benign peripheral nerve sheath tumours (/chaptercontent/34/478)
+                        Granular cell tumour (/chaptercontent/34/438)
+                     Tumours of uncertain differentiation
+                        Superficial angiomyxoma (/chaptercontent/34/427)
+                        Deep (aggressive) angiomyxoma (/chaptercontent/34/428)
+                        Epithelioid sarcoma (/chaptercontent/34/441)
+                        Alveolar soft part sarcoma (/chaptercontent/34/442)
+                     Undifferentiated small round cell sarcomas
+                        Ewing sarcoma (/chaptercontent/34/447)
+
+
+
+    15. Melanocytic lesions                                                                                
+
+                     Naevi
+                       Acquired melanocytic naevus (/chaptercontent/34/450)
+                       Congenital melanocytic naevus (/chaptercontent/34/451)
+                       Blue naevus (/chaptercontent/34/453)
+                       Atypical melanocytic naevus of genital type (/chaptercontent/34/454)
+                       Dysplastic melanocytic naevus (/chaptercontent/34/455)
+                     Melanoma
+                       Mucosal melanoma (/chaptercontent/34/457)
+https://tumourclassification.iarc.who.int/chapters/34                                                      10/11
+3/9/22, 9:36 PM                                                            BlueBooksOnline
+
+
+
+
+    16. Metastasis                                                                                                                   
+
+                          Metastasis to the lower female genital tract (/chaptercontent/34/461)
+
+
+
+    17. Genetic tumour syndromes of the female genital tract                                                                         
+
+                          BRCA1/2-associated hereditary breast and ovarian cancer syndrome (/chaptercontent/34/463)
+                          Lynch syndrome (/chaptercontent/34/464)
+                          Cowden syndrome (/chaptercontent/34/465)
+                          Li-Fraumeni syndrome (/chaptercontent/34/466)
+                          Peutz-Jeghers syndrome (/chaptercontent/34/467)
+                          Ataxia-telangiectasia (/chaptercontent/34/468)
+                          Carney complex (/chaptercontent/34/469)
+                          DICER1 syndrome (/chaptercontent/34/470)
+                          Ovarian dysgenesis (/chaptercontent/34/471)
+                          Von Hippel-Lindau syndrome (/chaptercontent/34/472)
+                          Hereditary leiomyomatosis and renal cell carcinoma (/chaptercontent/34/473)
+                          Other genetic tumour syndromes of the female genital tract (/paragraphcontent/34/475)
+
+
+       Terms of use (http://publications.iarc.fr/Terms-Of-Use)          Privacy Policy (https://www.iarc.fr/privacy-policy/)
+                                                        © IARC 1965-2022 — All Rights Reserved (https://www.iarc.fr/copyright-notice/)
+
+
+
+
+https://tumourclassification.iarc.who.int/chapters/34                                                                                    11/11
+

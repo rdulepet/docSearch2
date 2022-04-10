@@ -1,0 +1,583 @@
+3/9/22, 9:39 PM                                                  BlueBooksOnline
+
+
+    Paediatric tumours
+
+    1. Forewords and Introductions                                                                                   
+
+                WHO Classification of Tumours: Editorial Board (/paragraphcontent/44/532)
+                How to cite this volume (/paragraphcontent/44/533)
+                Foreword with changes from the book, including corrigenda (/paragraphcontent/44/534)
+                ICD-O coding of paediatric tumours (/paragraphcontent/44/535)
+                Introduction to paediatric tumours (/paragraphcontent/44/1)
+
+
+
+    2. Haematolymphoid disorders                                                                                     
+
+                     Haematolymphoid disorders: Introduction (/paragraphcontent/44/3)
+                Myeloid neoplasms
+                  Myeloproliferative neoplasms
+                     Chronic myeloid leukaemia (CML) (/chaptercontent/44/466)
+                  Myelodysplastic/myeloproliferative neoplasms
+                     Juvenile myelomonocytic leukaemia (/chaptercontent/44/17)
+                  Myelodysplastic syndromes
+                     Refractory cytopenia of childhood (/chaptercontent/44/22)
+                     Myelodysplastic syndrome with excess blasts (/chaptercontent/44/21)
+                  Acute myeloid leukaemia (AML) and related neoplasms
+                     Acute myeloid leukaemias (AMLs) defined by differentiation (/chaptercontent/44/469)
+                     Acute myeloid leukaemias (AMLs) with recurrent genetic abnormalities (/chaptercontent/44/468)
+                  Myeloid neoplasms and proliferations associated with antecedent or predisposing conditions
+                     Myeloid neoplasms associated with germline predisposition (/chaptercontent/44/470)
+                     Myeloid proliferations associated with Down syndrome (/chaptercontent/44/10)
+                Mast cell neoplasia
+                     Mastocytosis (/chaptercontent/44/32)
+                Lymphoid neoplasms
+                  Precursor lymphoid neoplasms
+                     B-cell lymphoblastic leukaemia/lymphoma (/chaptercontent/44/35)
+                     T-cell and NK-cell lymphoblastic leukaemia/lymphoma (/chaptercontent/44/403)
+                  Mature B-cell neoplasms
+                     Primary mediastinal large B-cell lymphoma (/chaptercontent/44/41)
+                     Diffuse large B-cell lymphoma NOS (/chaptercontent/44/42)
+                     EBV-positive diffuse large B-cell lymphoma NOS (/chaptercontent/44/393)
+                     Large B-cell lymphoma with IRF4 rearrangement (/chaptercontent/44/43)
+                     Paediatric-type follicular lymphoma (/chaptercontent/44/44)
+                     Paediatric nodal marginal zone lymphoma (/chaptercontent/44/45)
+                     ALK-positive large B-cell lymphoma (/chaptercontent/44/46)
+                     Lymphomatoid granulomatosis (/chaptercontent/44/48)
+                     Plasmablastic lymphoma (/chaptercontent/44/50)
+                     Mediastinal grey zone lymphoma (/chaptercontent/44/54)
+                     Burkitt lymphoma (/chaptercontent/44/51)
+                     Large B-cell lymphoma with 11q aberration (/chaptercontent/44/489)
+                  Mature T/NK-cell neoplasms
+https://tumourclassification.iarc.who.int/chapters/44                                                                1/11
+3/9/22, 9:39 PM                                                     BlueBooksOnline
+
+                          Peripheral T-cell lymphoma NOS (/chaptercontent/44/490)
+
+                      Aggressive NK-cell leukaemia (/chaptercontent/44/53)
+                   Primary cutaneous T-cell neoplasms
+                      Mycosis fungoides (/chaptercontent/44/55)
+                      Primary cutaneous CD30-positive T-cell lymphoproliferative disorders (/chaptercontent/44/59)
+                      Subcutaneous panniculitis-like T-cell lymphoma (/chaptercontent/44/62)
+                   Anaplastic large cell lymphoma
+                      Anaplastic large cell lymphoma, ALK-positive (/chaptercontent/44/57)
+                   Hepatosplenic T-cell lymphoma
+                      Hepatosplenic T-cell lymphoma (/chaptercontent/44/58)
+                   EBV-positive lymphoproliferative diseases of childhood
+                      Systemic EBV-positive T-cell lymphoma of childhood (/chaptercontent/44/60)
+                      Hydroa vacciniforme lymphoproliferative disorder (/chaptercontent/44/61)
+                Hodgkin lymphoma
+                      Classic Hodgkin lymphoma (/chaptercontent/44/65)
+                      Nodular lymphocyte-predominant Hodgkin lymphoma (/chaptercontent/44/511)
+                Histiocytic and dendritic cell neoplasms
+                      Langerhans cell histiocytosis and related disorders (/chaptercontent/44/68)
+                Immunodeficiency-associated lymphoproliferative disorders
+                      Primary immunodeficiency-associated lymphoproliferative disorders (/chaptercontent/44/71)
+                      Posttransplant lymphoproliferative disorders (/chaptercontent/44/407)
+                      HIV-associated lymphoproliferative disorders (/chaptercontent/44/408)
+
+
+
+    3. CNS tumours                                                                                                   
+
+                CNS tumours: Introduction (/paragraphcontent/44/75)
+                Gliomas, glioneuronal & neuronal tumours
+                      Gliomas, glioneuronal tumours, and neuronal tumours: Introduction (/paragraphcontent/44/364)
+                   Paediatric-type diffuse low-grade gliomas
+                      Diffuse astrocytoma, MYB- or MYBL1-altered (/chaptercontent/44/429)
+                      Angiocentric glioma (/chaptercontent/44/397)
+                      Polymorphous low-grade neuroepithelial tumour of the young (/chaptercontent/44/405)
+                      Diffuse low-grade glioma, MAPK pathway-altered (/chaptercontent/44/475)
+                   Paediatric-type diffuse high-grade gliomas defined by H3 status
+                      Diffuse midline glioma, H3 K27-altered (/chaptercontent/44/78)
+                      Diffuse hemispheric glioma, H3 G34-mutant (/chaptercontent/44/79)
+                      Diffuse paediatric-type high-grade glioma, H3-wildtype and IDH-wildtype
+                      (/chaptercontent/44/99)
+                      Infant-type hemispheric glioma (/chaptercontent/44/394)
+                   Circumscribed astrocytic gliomas
+                      Pilocytic astrocytoma (/chaptercontent/44/80)
+                      High-grade astrocytoma with piloid features (/chaptercontent/44/477)
+                      Pleomorphic xanthoastrocytoma (/chaptercontent/44/82)
+                      Subependymal giant cell astrocytoma (/chaptercontent/44/81)
+                      Astroblastoma, MN1-altered (/chaptercontent/44/83)
+                   Glioneuronal and neuronal tumours
+                      Ganglioglioma (/chaptercontent/44/94)
+https://tumourclassification.iarc.who.int/chapters/44                                                                2/11
+3/9/22, 9:39 PM                                                   BlueBooksOnline
+
+                      Desmoplastic infantile ganglioglioma / desmoplastic infantile astrocytoma
+                      (/chaptercontent/44/86)
+                      Dysembryoplastic neuroepithelial tumour (/chaptercontent/44/87)
+                      Diffuse glioneuronal tumour with oligodendroglioma-like features and nuclear clusters
+                      (/chaptercontent/44/85)
+                      Diffuse leptomeningeal glioneuronal tumour (/chaptercontent/44/97)
+                      Multinodular and vacuolating neuronal tumour (/chaptercontent/44/404)
+                   Ependymal tumours
+                      Ependymal tumours: Introduction (/paragraphcontent/44/437)
+                      Supratentorial ependymoma (/chaptercontent/44/90)
+                      Supratentorial ependymoma, ZFTA fusion-positive (/chaptercontent/44/438)
+                      Supratentorial ependymoma, YAP1 fusion-positive (/chaptercontent/44/439)
+                      Posterior fossa ependymoma (/chaptercontent/44/91)
+                      Posterior fossa group A (PFA) ependymoma (/chaptercontent/44/95)
+                      Posterior fossa group B (PFB) ependymoma (/chaptercontent/44/440)
+                      Spinal ependymoma, MYCN-amplified (/chaptercontent/44/436)
+                      Myxopapillary ependymoma (/chaptercontent/44/471)
+                Choroid plexus tumours
+                      Choroid plexus papilloma (/chaptercontent/44/100)
+                      Atypical choroid plexus papilloma (/chaptercontent/44/101)
+                      Choroid plexus carcinoma (/chaptercontent/44/102)
+                CNS embryonal tumours
+                      Medulloblastoma: Introduction (/paragraphcontent/44/476)
+                   Medulloblastomas, molecularly defined
+                      Medulloblastoma, WNT-activated (/chaptercontent/44/105)
+                      Medulloblastoma, SHH-activated and TP53-wildtype (/chaptercontent/44/106)
+                      Medulloblastoma, SHH-activated and TP53-mutant (/chaptercontent/44/107)
+                      Medulloblastoma, non-WNT/non-SHH (/chaptercontent/44/108)
+                   Medulloblastoma, histologically defined
+                      Medulloblastoma, histologically defined (/chaptercontent/44/442)
+                   Other CNS embryonal tumours
+                      Other CNS embryonal tumours: Introduction (/paragraphcontent/44/501)
+                      Atypical teratoid/rhabdoid tumour (/chaptercontent/44/110)
+                      Cribriform neuroepithelial tumour (/chaptercontent/44/465)
+                      Embryonal tumour with multilayered rosettes (/chaptercontent/44/111)
+                      CNS neuroblastoma, FOXR2-activated (/chaptercontent/44/113)
+                      CNS tumour with BCOR internal tandem duplication (/chaptercontent/44/114)
+                      CNS embryonal tumour NEC/NOS (/chaptercontent/44/446)
+                Pineal region tumours
+                   Pineal region tumours
+                      Pineal tumours: Introduction (/paragraphcontent/44/502)
+                      Pineoblastoma (/chaptercontent/44/117)
+                Melanocytic tumours
+                      Melanocytic tumours: Introduction (/paragraphcontent/44/503)
+                      Diffuse meningeal melanocytic neoplasms: Melanocytosis and melanomatosis
+                      (/chaptercontent/44/119)
+                Tumours of the sellar region
+                      Tumours of the sellar region: Introduction (/paragraphcontent/44/504)
+                   Pituitary endocrine tumours
+https://tumourclassification.iarc.who.int/chapters/44                                                         3/11
+3/9/22, 9:39 PM                                                     BlueBooksOnline
+
+                        Pituitary adenoma / pituitary neuroendocrine tumour (/chaptercontent/44/310)
+                        Pituitary blastoma (/chaptercontent/44/311)
+                     Craniopharyngiomas
+                        Adamantinomatous craniopharyngioma (/chaptercontent/44/122)
+
+
+
+    4. Peripheral neuroblastic tumours                                                                      
+
+                          Peripheral neuroblastic tumours: Introduction (/paragraphcontent/44/401)
+                          Ganglioneuroma (/chaptercontent/44/453)
+                          Ganglioneuroblastoma, intermixed (/chaptercontent/44/451)
+                          Neuroblastoma (/chaptercontent/44/326)
+                          Ganglioneuroblastoma, nodular (and other composite neuroblastic tumours)
+                          (/chaptercontent/44/452)
+
+
+
+    5. Eye tumours                                                                                          
+
+                      Eye tumours: Introduction (/paragraphcontent/44/124)
+                Conjunctival neoplasms
+                  Hamartomas
+                      Epibulbar choristoma (/chaptercontent/44/127)
+                      Epibulbar osseous choristoma (/chaptercontent/44/128)
+                      Phakomatous choristoma (/chaptercontent/44/398)
+                  Melanocytic neoplasms
+                      Conjunctival junctional, compound, and subepithelial naevi (/chaptercontent/44/130)
+                      Inflamed juvenile conjunctival naevus (/chaptercontent/44/445)
+                Uveal neoplasms
+                      Diffuse choroidal neurofibroma and ganglioneuroma (/chaptercontent/44/133)
+                      Lisch nodule (iris hamartoma) (/chaptercontent/44/134)
+                Retinal and neuroepithelial tumours
+                      Retinocytoma (/chaptercontent/44/137)
+                      Retinoblastoma (/chaptercontent/44/138)
+                      Medulloepithelioma (/chaptercontent/44/399)
+                Optic nerve tumours
+                      Pilocytic astrocytoma and other gliomas of the optic nerve (/chaptercontent/44/140)
+
+
+
+    6. Soft tissue and bone tumours                                                                         
+
+                       Soft tissue and bone tumours: Introduction (/paragraphcontent/44/142)
+                Soft tissue tumours
+                   Adipocytic tumours
+                       Lipomatosis (/chaptercontent/44/145)
+                       Lipoblastoma/lipoblastomatosis (/chaptercontent/44/146)
+                       Liposarcoma (/chaptercontent/44/193)
+                   Fibroblastic and myofibroblastic tumours
+                       Fasciitis/myositis (/chaptercontent/44/149)
+                       Fibrodysplasia ossificans progressiva (/chaptercontent/44/520)
+https://tumourclassification.iarc.who.int/chapters/44                                                       4/11
+3/9/22, 9:39 PM                                                     BlueBooksOnline
+
+                          Fibroma of tendon sheath (/chaptercontent/44/493)
+
+                        Gardner fibroma (/chaptercontent/44/150)
+                        Fibrous hamartoma of infancy (/chaptercontent/44/480)
+                        Lipofibromatosis (/chaptercontent/44/485)
+                        Inclusion body infantile digital fibromatosis (/chaptercontent/44/481)
+                        Juvenile hyaline fibromatosis (hyaline fibromatosis syndrome) (/chaptercontent/44/482)
+                        Fibromatosis colli (/chaptercontent/44/483)
+                        Calcifying aponeurotic fibroma (/chaptercontent/44/484)
+                        Sinonasal angiofibroma (/chaptercontent/44/300)
+                        Plantar/palmar fibromatoses (/chaptercontent/44/152)
+                        Dermatofibrosarcoma protuberans (/chaptercontent/44/367)
+                        Desmoid fibromatosis (/chaptercontent/44/492)
+                        EWSR1::SMAD3-positive fibroblastic tumour (/chaptercontent/44/153)
+                        Infantile fibrosarcoma (/chaptercontent/44/160)
+                        Paediatric NTRK-rearranged spindle cell neoplasm (/chaptercontent/44/155)
+                        Low-grade fibromyxoid sarcoma / sclerosing epithelioid fibrosarcoma (/chaptercontent/44/156)
+                        Inflammatory myofibroblastic tumour (/chaptercontent/44/158)
+                        Low-grade myofibroblastic sarcoma (/chaptercontent/44/157)
+                     So-called fibrohistiocytic tumours
+                        Fibrous histiocytoma (/chaptercontent/44/409)
+                        Plexiform fibrohistiocytic tumour (/chaptercontent/44/159)
+                        Tenosynovial giant cell tumour (/chaptercontent/44/410)
+                     Vascular tumours
+                        Capillary malformations (/chaptercontent/44/526)
+                        Venous malformations (/chaptercontent/44/528)
+                        Arteriovenous malformations (/chaptercontent/44/529)
+                        Intramuscular vascular anomalies (/chaptercontent/44/164)
+                        Lymphatic anomalies (/chaptercontent/44/166)
+                        Congenital haemangioma (/chaptercontent/44/162)
+                        Infantile haemangioma (/chaptercontent/44/505)
+                        Haemangioma of placenta (/chaptercontent/44/427)
+                        Lobular capillary haemangioma (pyogenic granuloma) (/chaptercontent/44/411)
+                        Epithelioid haemangioma (/chaptercontent/44/462)
+                        Tufted angioma and kaposiform haemangioendothelioma (/chaptercontent/44/163)
+                        Papillary intralymphatic angioendothelioma and retiform haemangioendothelioma
+                        (/chaptercontent/44/165)
+                        Pseudomyogenic haemangioendothelioma (/chaptercontent/44/412)
+                        Kaposi sarcoma (/chaptercontent/44/413)
+                        Epithelioid haemangioendothelioma (/chaptercontent/44/414)
+                        Angiosarcoma (/chaptercontent/44/478)
+                     Pericytic (perivascular) tumours
+                        Myofibroma and myopericytoma (/chaptercontent/44/168)
+                        Glomus tumour and glomuvenous malformation (/chaptercontent/44/169)
+                     Smooth muscle tumours
+                        EBV-associated smooth muscle tumour (/chaptercontent/44/172)
+                     Skeletal muscle tumours
+                        Rhabdomyoma (/chaptercontent/44/174)
+                        Rhabdomyosarcomas (/chaptercontent/44/175)
+https://tumourclassification.iarc.who.int/chapters/44                                                                  5/11
+3/9/22, 9:39 PM                                                  BlueBooksOnline
+
+                      Ectomesenchymoma (/chaptercontent/44/178)
+                  Gastrointestinal stromal tumour
+                      Paediatric gastrointestinal stromal tumour (/chaptercontent/44/217)
+                  Peripheral nerve sheath tumours
+                      Schwannoma (/chaptercontent/44/184)
+                      Neurofibroma (/chaptercontent/44/536)
+                      Perineurioma (/chaptercontent/44/537)
+                      Hybrid nerve sheath tumour (/chaptercontent/44/538)
+                      Granular cell tumour (/chaptercontent/44/539)
+                      Solitary circumscribed neuroma (/chaptercontent/44/189)
+                      Ectopic meningioma and meningothelial hamartoma (/chaptercontent/44/190)
+                      Benign triton tumour / neuromuscular choristoma (/chaptercontent/44/191)
+                      Malignant peripheral nerve sheath tumour (/chaptercontent/44/192)
+                  Tumours of uncertain derivation
+                      Intramuscular/juxta-articular myxoma (/chaptercontent/44/507)
+                      Superficial angiomyxoma (/chaptercontent/44/508)
+                      Deep angiomyxoma (/chaptercontent/44/509)
+                      Angiomatoid fibrous histiocytoma (/chaptercontent/44/201)
+                      Clear cell sarcoma of soft tissue (/chaptercontent/44/195)
+                      Alveolar soft part sarcoma (/chaptercontent/44/196)
+                      Extrarenal rhabdoid tumour (/chaptercontent/44/197)
+                      PEComa (/chaptercontent/44/188)
+                      Synovial sarcoma (/chaptercontent/44/187)
+                      Epithelioid sarcoma (/chaptercontent/44/198)
+                      Myoepithelial tumours of soft tissue (/chaptercontent/44/199)
+                      Phosphaturic mesenchymal tumour (/chaptercontent/44/200)
+                      Desmoplastic small round cell tumour (/chaptercontent/44/203)
+                      Undifferentiated sarcomas (/chaptercontent/44/463)
+                Undifferentiated small round cell sarcomas of soft tissue and bone
+                      Ewing sarcoma (/chaptercontent/44/206)
+                      Round cell sarcoma with EWSR1::non-ETS fusions (/chaptercontent/44/207)
+                      CIC-rearranged sarcoma (/chaptercontent/44/208)
+                      Sarcoma with BCOR genetic alterations (/chaptercontent/44/209)
+                Bone tumours
+                  Osteogenic tumours
+                      Subungual exostosis (/chaptercontent/44/204)
+                      Bizarre parosteal osteochondromatous proliferation (/chaptercontent/44/202)
+                      Osteoblastoma (/chaptercontent/44/212)
+                      Osteoid osteoma (/chaptercontent/44/213)
+                      Chondromesenchymal hamartoma of the chest wall (/chaptercontent/44/214)
+                      Osteosarcoma (/chaptercontent/44/215)
+                  Chondrogenic tumours
+                      Chondroblastoma (/chaptercontent/44/224)
+                      Osteochondroma (/chaptercontent/44/221)
+                      Chondromyxoid fibroma (/chaptercontent/44/225)
+                      Enchondroma and enchondromatosis (/chaptercontent/44/222)
+                      Chondrosarcoma (/chaptercontent/44/226)
+                      Mesenchymal chondrosarcoma (/chaptercontent/44/540)
+                  Other bone tumours
+https://tumourclassification.iarc.who.int/chapters/44                                               6/11
+3/9/22, 9:39 PM                                                       BlueBooksOnline
+
+                          Vascular tumours of bone (/chaptercontent/44/228)
+                          Aneurysmal bone cyst (/chaptercontent/44/516)
+                          Giant cell tumour of bone (/chaptercontent/44/517)
+                          Non-ossifying fibroma (/chaptercontent/44/518)
+                          Notochordal tumours (/chaptercontent/44/230)
+                          Simple bone cyst (/chaptercontent/44/512)
+                          Adamantinoma (/chaptercontent/44/513)
+                          Osteofibrous dysplasia (/chaptercontent/44/514)
+                          Fibrous dysplasia (/chaptercontent/44/515)
+
+
+
+    7. Germ cell tumours                                                                            
+
+                     Germ cell tumours: Introduction (/paragraphcontent/44/233)
+                Germ cell tumours
+                  Non-invasive germ cell neoplasia
+                     Intratubular germ cell neoplasia (male gonadal) (/chaptercontent/44/236)
+                     Gonadoblastoma (/chaptercontent/44/425)
+                  Germinoma-family tumours
+                     Germinoma/dysgerminoma/seminoma (/chaptercontent/44/237)
+                  Non-germinomatous germ cell tumours
+                     Non-germinomatous germ cell tumours: Introduction (/paragraphcontent/44/506)
+                     Mature cystic teratoma (/chaptercontent/44/240)
+                     Extragonadal teratoma (/chaptercontent/44/444)
+                     Monodermal teratomas (female gonadal) (/chaptercontent/44/241)
+                     Immature teratoma (female gonadal) (/chaptercontent/44/242)
+                     Prepubertal-type testicular teratoma (/chaptercontent/44/238)
+                     Postpubertal-type teratoma (/chaptercontent/44/243)
+                     Embryonal carcinoma (/chaptercontent/44/245)
+                     Yolk sac tumour (/chaptercontent/44/246)
+                     Fetus in fetu (/chaptercontent/44/186)
+                     Choriocarcinoma (non-gestational) (/chaptercontent/44/247)
+                     Malignant mixed germ cell tumours (/chaptercontent/44/248)
+
+
+
+    8. Renal and male genital tumours                                                               
+
+                     Renal and male genital tumours: Introduction (/paragraphcontent/44/250)
+                Renal tumours
+                  Nephroblastic and related tumours
+                     Paediatric cystic nephroma (/chaptercontent/44/256)
+                     Nephroblastoma (/chaptercontent/44/257)
+                  Molecularly defined renal tumours
+                     Renal cell carcinoma with MiT translocations (/chaptercontent/44/185)
+                     ALK-rearranged renal cell carcinoma (/chaptercontent/44/181)
+                     Eosinophilic solid and cystic renal cell carcinoma (/chaptercontent/44/177)
+                     SMARCB1-deficient renal medullary carcinoma (/chaptercontent/44/223)
+                  Metanephric tumours
+                     Metanephric adenoma (/chaptercontent/44/486)
+https://tumourclassification.iarc.who.int/chapters/44                                               7/11
+3/9/22, 9:39 PM                                                    BlueBooksOnline
+
+                          Metanephric adenofibroma (/chaptercontent/44/487)
+
+                      Metanephric stromal tumour (/chaptercontent/44/488)
+                   Mesenchymal renal tumours
+                      Ossifying renal tumour of infancy (/chaptercontent/44/259)
+                      Mesoblastic nephroma (/chaptercontent/44/255)
+                      Clear cell sarcoma of the kidney (/chaptercontent/44/416)
+                      Malignant rhabdoid tumour of the kidney (/chaptercontent/44/258)
+                      Anaplastic sarcoma of the kidney (/chaptercontent/44/417)
+                      Renal Ewing sarcoma (/chaptercontent/44/415)
+                Testicular tumours
+                      Non-germ cell testicular tumours: Introduction (/paragraphcontent/44/419)
+                      Juvenile granulosa cell tumour of the testis (/chaptercontent/44/420)
+
+
+
+    9. Female genital tumours                                                                                      
+
+                      Non-germ cell tumours of the female genital tract: Introduction (/paragraphcontent/44/261)
+                Ovarian tumours
+                  Sex cord stromal tumours
+                      Ovarian fibroma (/chaptercontent/44/264)
+                      Sclerosing stromal tumour (/chaptercontent/44/422)
+                      Juvenile granulosa cell tumour of the ovary (/chaptercontent/44/265)
+                      Sex cord tumour with annular tubules (/chaptercontent/44/266)
+                      Papillary cystadenoma (/chaptercontent/44/423)
+                      Sertoli-Leydig cell tumour (/chaptercontent/44/424)
+                      Gynandroblastoma (/chaptercontent/44/269)
+                  Other ovarian tumours
+                      Small cell carcinoma of the ovary, hypercalcaemic type (/chaptercontent/44/270)
+                Lower female genital tract tumours
+                  Epithelial tumours
+                      Mesonephric remnants and hyperplasia (/chaptercontent/44/278)
+                      Mullerian papilloma (/chaptercontent/44/277)
+                      Condyloma acuminatum (/chaptercontent/44/279)
+                Peritoneal tumours
+                  Mesothelial tumours
+                      Peritoneal inclusion cysts (/chaptercontent/44/274)
+
+
+
+    10. Breast tumours                                                                                             
+
+                     Breast tumours: Introduction (/paragraphcontent/44/281)
+                Breast tumours
+                     Fibroepithelial tumours (/chaptercontent/44/283)
+                     Juvenile fibroadenoma (/chaptercontent/44/284)
+                     Juvenile papillomatosis (/chaptercontent/44/428)
+
+
+
+    11. Digestive system tumours                                                                                   
+https://tumourclassification.iarc.who.int/chapters/44                                                              8/11
+3/9/22, 9:39 PM                                                    BlueBooksOnline
+
+
+
+
+                       Digestive system tumours: Introduction (/paragraphcontent/44/286)
+                Liver tumours
+                   Epithelial tumours
+                       Hepatoblastoma (/chaptercontent/44/289)
+                       Fibrolamellar variant of hepatocellular carcinoma (/chaptercontent/44/290)
+                       Paediatric hepatocellular carcinoma (/chaptercontent/44/430)
+                   Mesenchymal tumours unique to the liver
+                       Mesenchymal hamartoma (/chaptercontent/44/292)
+                       Calcifying nested stromal-epithelial tumour (/chaptercontent/44/293)
+                       Embryonal sarcoma of the liver (/chaptercontent/44/295)
+                       Hepatic congenital haemangioma (/chaptercontent/44/522)
+                       Hepatic infantile haemangioma (/chaptercontent/44/431)
+                       Hepatic angiosarcoma (/chaptercontent/44/523)
+                Pancreatic tumours
+                   Epithelial tumours
+                       Pancreatoblastoma (/chaptercontent/44/298)
+                       Pancreatic acinar cell carcinoma (/chaptercontent/44/299)
+                       Solid pseudopapillary neoplasm (/chaptercontent/44/305)
+                Gastrointestinal tumours
+                   Epithelial tumours
+                       Gastroblastoma (/chaptercontent/44/303)
+                       Appendiceal neuroendocrine tumours (/chaptercontent/44/304)
+
+
+
+    12. Endocrine tumours                                                                                    
+
+                      Endocrine tumours: Introduction (/paragraphcontent/44/307)
+                Thyroid tumours
+                  Thyroid epithelial tumours
+                      Follicular adenoma of the thyroid (/chaptercontent/44/314)
+                      Papillary thyroid carcinoma (/chaptercontent/44/315)
+                      Medullary thyroid carcinoma (/chaptercontent/44/316)
+                      Spindle epithelial tumour with thymus-like elements (/chaptercontent/44/317)
+                Parathyroid tumours
+                  Parathyroid endocrine tumours
+                      Parathyroid adenoma (/chaptercontent/44/320)
+                Adrenal tumours
+                  Adrenocortical tumours
+                      Adrenal cortical tumours (/chaptercontent/44/323)
+                Tumours of the adrenal medulla and extra-adrenal paraganglia
+                      Sympathetic paraganglioma (/chaptercontent/44/325)
+                      Parasympathetic paraganglioma (head and neck paraganglioma) (/chaptercontent/44/472)
+                      Phaeochromocytoma (/chaptercontent/44/455)
+                      Composite phaeochromocytoma/paraganglioma (/chaptercontent/44/456)
+                Neuroendocrine neoplasms
+                  Neuroendocrine tumours
+                      Other neuroendocrine tumours (/chaptercontent/44/329)
+https://tumourclassification.iarc.who.int/chapters/44                                                        9/11
+3/9/22, 9:39 PM                                                   BlueBooksOnline
+
+
+
+
+    13. Head and neck tumours                                                                    
+
+                       Head and neck tumours: Introduction (/paragraphcontent/44/331)
+                     Benign tumours
+                       Squamous cell papilloma of the larynx (/chaptercontent/44/337)
+                       White sponge naevus (/chaptercontent/44/338)
+                       Congenital granular cell epulis (/chaptercontent/44/339)
+                       Central giant cell granuloma (/chaptercontent/44/335)
+                       Odontogenic tumours (/chaptercontent/44/334)
+                       Ossifying fibroma (/chaptercontent/44/348)
+                       Sinonasal tract myxoma (/chaptercontent/44/542)
+                       Nasal dermoid cyst (/chaptercontent/44/342)
+                       Nasopharyngeal dermoid (/chaptercontent/44/343)
+                       Sinonasal chondromesenchymal hamartoma (/chaptercontent/44/344)
+                       Pleomorphic adenoma (/chaptercontent/44/443)
+                     Malignant tumours
+                       Mucoepidermoid carcinoma (/chaptercontent/44/457)
+                       Acinic cell carcinoma (/chaptercontent/44/458)
+                       Sialoblastoma (/chaptercontent/44/459)
+                       Nasopharyngeal carcinoma (/chaptercontent/44/349)
+                       NUT carcinoma (/chaptercontent/44/351)
+                       Melanotic neuroectodermal tumour of infancy (/chaptercontent/44/350)
+
+
+
+    14. Thoracic tumours                                                                         
+
+                Lung tumours
+                      Fetal lung interstitial tumour (/chaptercontent/44/432)
+                      Congenital peribronchial myofibroblastic tumour (/chaptercontent/44/433)
+                      Pleuropulmonary blastoma (/chaptercontent/44/355)
+                Heart tumours
+                      Cardiac rhabdomyoma (/chaptercontent/44/357)
+
+
+
+    15. Skin tumours                                                                             
+
+                      Skin tumours: Introduction (/paragraphcontent/44/359)
+                Hamartomas
+                      Hamartomas (/chaptercontent/44/360)
+                Epithelial neoplasms
+                   Squamous neoplasms
+                      Angiokeratoma (/chaptercontent/44/363)
+                      Epidermal naevi (/chaptercontent/44/434)
+                      Pilomatricoma (/chaptercontent/44/499)
+                Melanocytic neoplasms
+                   Naevi
+                      Congenital naevi (/chaptercontent/44/370)
+https://tumourclassification.iarc.who.int/chapters/44                                            10/11
+3/9/22, 9:39 PM                                                            BlueBooksOnline
+
+                          Junctional, compound, and dermal naevi (/chaptercontent/44/371)
+
+                       Blue naevus (/chaptercontent/44/372)
+                       Spitz naevus (/chaptercontent/44/373)
+                       Pigmented spindle cell naevus (Reed naevus) (/chaptercontent/44/510)
+                     Melanoma
+                       Melanoma (/chaptercontent/44/375)
+
+
+
+    16. Chapter 16: Genetic tumour syndromes                                                                                         
+
+                        Selected tumour predisposition syndromes: Introduction (/paragraphcontent/44/402)
+                     Syndromes predisposing primarily to neural tumours
+                        Neurofibromatosis type 1 (/chaptercontent/44/385)
+                        Neurofibromatosis type 2 (/chaptercontent/44/386)
+                        Tuberous sclerosis (/chaptercontent/44/379)
+                        Naevoid basal cell carcinoma syndrome (Gorlin syndrome) (/chaptercontent/44/384)
+                        Retinoblastoma syndrome (/chaptercontent/44/387)
+                     Syndromes predisposing primarily to endocrine tumours
+                        Von Hippel-Lindau syndrome (/chaptercontent/44/449)
+                        Hereditary phaeochromocytoma-paraganglioma syndromes (/chaptercontent/44/388)
+                     Syndromes predisposing primarily to Wilms tumours
+                        WAGR syndrome (/chaptercontent/44/460)
+                        Beckwith-Wiedemann and related overgrowth syndromes (/chaptercontent/44/435)
+                     Syndromes predisposing primarily to gastrointestinal tumours
+                        Familial adenomatous polyposis (/chaptercontent/44/383)
+                        Lynch syndrome (/chaptercontent/44/392)
+                     Other syndromes
+                        Xeroderma pigmentosum (/chaptercontent/44/391)
+                        Rothmund-Thomson syndrome (/chaptercontent/44/390)
+                        Li-Fraumeni syndrome (/chaptercontent/44/380)
+                        DICER1 syndrome (/chaptercontent/44/389)
+                        BAP1 tumour predisposition syndrome (/chaptercontent/44/500)
+                        Constitutional mismatch repair deficiency syndrome (/chaptercontent/44/382)
+                        Rhabdoid tumour predisposition syndrome (/chaptercontent/44/381)
+
+
+       Terms of use (http://publications.iarc.fr/Terms-Of-Use)          Privacy Policy (https://www.iarc.fr/privacy-policy/)
+                                                        © IARC 1965-2022 — All Rights Reserved (https://www.iarc.fr/copyright-notice/)
+
+
+
+
+https://tumourclassification.iarc.who.int/chapters/44                                                                                    11/11
+
