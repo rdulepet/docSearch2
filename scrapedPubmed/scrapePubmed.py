@@ -221,6 +221,7 @@ for key in search_space:
     vals = [re.sub(r'\s+', '+', val) for val in vals]
     key = re.sub(r'\s*,\s*|\s*&\s*', ' ', key)
     key = re.sub(r'\s+', '+', key)
+    key = re.sub(r'\/|\\', '+', key)
     #logging.info(key, '--->', vals)
     
     if not exists(f'{PUBMED_RESULTS_DIR}/{key}.csv'):
