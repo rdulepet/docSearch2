@@ -153,10 +153,10 @@ def scrape_pubmed_results(query, page_limit=-1):
                     article['journal'] = re.sub(r'^JT\s+\-\s+', '', line).strip()
                     current_tag = 'journal'
                 elif re.search(r'^FAU\s+\-\s+', line):
-                    if len(article['authors']) > 1:
-                        # don't copy affiliations
-                        #if article['authors'][-1]['affiliations'] == '':
-                        #    article['authors'][-1]['affiliations'] = article['authors'][-2]['affiliations']
+                    # don't copy affiliations
+                    #if len(article['authors']) > 1:
+                    #    if article['authors'][-1]['affiliations'] == '':
+                    #        article['authors'][-1]['affiliations'] = article['authors'][-2]['affiliations']
                     article['authors'].append({
                         'full_name':re.sub(r'^FAU\s+\-\s+', '', line).strip(), 
                         'initial_name':'', 
