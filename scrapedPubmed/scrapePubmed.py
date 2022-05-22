@@ -237,5 +237,5 @@ if sys.argv[1] == 'all':
                 logging.info('scrape=%s', val)
                 scrape_pubmed_results(val)
 else:
-    logging.info('scrape=%s, page_limit=%d', sys.argv[1]), sys.argv[2]
+    logging.info('scrape=%s, page_limit=%d', sys.argv[1], sys.argv[2])
     scrape_pubmed_results(sys.argv[1], int(sys.argv[2]))
