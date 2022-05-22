@@ -6,6 +6,7 @@ from os.path import exists
 import pickle
 from requests.exceptions import ConnectionError
 import logging
+import sys
 
 # Import libraries
 import requests
@@ -213,24 +214,24 @@ def get_search_term_mapping():
         out_search_space = pickle.load(handle)
         return out_search_space
 
-
-search_space = get_search_term_mapping()
-for key in search_space:
-    vals = search_space[key]
-    vals = [re.sub(r'\s*,\s*|\s*&\s*', ' ', val) for val in vals]
-    vals = [re.sub(r'\s+', '+', val) for val in vals]
-    key = re.sub(r'\s*,\s*|\s*&\s*', ' ', key)
-    key = re.sub(r'\s+', '+', key)
-    key = re.sub(r'\/|\\', '+', key)
-    #logging.info(key, '--->', vals)
-    
-    if not exists(f'{PUBMED_RESULTS_DIR}/{key}.csv'):
-        logging.info('scrape=%s', key)
-        scrape_pubmed_results(key)
-    for val in vals:
-        if not exists(f'{PUBMED_RESULTS_DIR}/{val}.csv'):
-            logging.info('scrape=%s', val)
-            scrape_pubmed_results(val)
+if sys.argv[1] == 'all':
+    search_space = get_search_term_mapping()
+    for key in search_space:
+        vals = search_space[key]
+        vals = [re.sub(r'\s*,\s*|\s*&\s*', ' ', val) for val in vals]
+        vals = [re.sub(r'\s+', '+', val) for val in vals]
+        key = re.sub(r'\s*,\s*|\s*&\s*', ' ', key)
+        key = re.sub(r'\s+', '+', key)
+        key = re.sub(r'\/|\\', '+', key)
+        #logging.info(key, '--->', vals)
         
-
-    
+        if not exists(f'{PUBMED_RESULTS_DIR}/{key}.csv'):
+            logging.info('scrape=%s', key)
+            scrape_pubmed_results(key)
+        for val in vals:
+            if not exists(f'{PUBMED_RESULTS_DIR}/{val}.csv'):
+                logging.info('scrape=%s', val)
+                scrape_pubmed_results(val)
+else:
+    logging.info('scrape=%s', sys.argv[1])
+    scrape_pubmed_results(sys.argv[1])
