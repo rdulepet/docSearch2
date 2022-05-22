@@ -226,11 +226,11 @@ for key in search_space:
     
     if not exists(f'{PUBMED_RESULTS_DIR}/{key}.csv'):
         logging.info('scrape=%s', key)
-        #scrape_pubmed_results(key)
+        scrape_pubmed_results(key)
     for val in vals:
         if not exists(f'{PUBMED_RESULTS_DIR}/{val}.csv'):
             logging.info('scrape=%s', val)
-            #scrape_pubmed_results(val)
+            scrape_pubmed_results(val)
         
 
     
