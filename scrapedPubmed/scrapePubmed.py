@@ -35,7 +35,7 @@ def fetch_num_citations(url):
 
     return int(amount.replace(',', '').replace(' ', ''))
 
-def scrape_pubmed_results(query):
+def scrape_pubmed_results(query, page_limit=-1):
     pubmed_articles = []
     pageno = 0
     ranking = 0
@@ -44,6 +44,10 @@ def scrape_pubmed_results(query):
 
     while(True):
         pageno += 1
+        if (page_limit != -1) and (pageno > page_limit):
+            # stop
+            break
+
         url = f'https://pubmed.ncbi.nlm.nih.gov/?term={query}&filter=pubt.clinicalconference&filter=pubt.clinicalstudy&filter=pubt.clinicaltrial&filter=pubt.clinicaltrialprotocol&filter=pubt.clinicaltrialphasei&filter=pubt.clinicaltrialphaseii&filter=pubt.clinicaltrialphaseiii&filter=pubt.clinicaltrialphaseiv&filter=pubt.comparativestudy&filter=pubt.controlledclinicaltrial&filter=pubt.editorial&filter=pubt.meta-analysis&filter=pubt.observationalstudy&filter=pubt.practiceguideline&filter=pubt.pragmaticclinicaltrial&filter=pubt.randomizedcontrolledtrial&filter=pubt.researchsupportamericanrecoveryandreinvestmentact&filter=pubt.researchsupportnihextramural&filter=pubt.researchsupportnihintramural&filter=pubt.researchsupportnonusgovt&filter=pubt.researchsupportusgovtnonphs&filter=pubt.researchsupportusgovtphs&filter=pubt.researchsupportusgovernment&filter=pubt.validationstudy&show_snippets=off&size=200&page={pageno}&format=pubmed'
         #logging.info(f'\npage={pageno},url={url}')
         #logging.info(f'page={pageno}')
@@ -233,5 +237,5 @@ if sys.argv[1] == 'all':
                 logging.info('scrape=%s', val)
                 scrape_pubmed_results(val)
 else:
-    logging.info('scrape=%s', sys.argv[1])
-    scrape_pubmed_results(sys.argv[1])
+    logging.info('scrape=%s, page_limit=%d', sys.argv[1]), sys.argv[2]
+    scrape_pubmed_results(sys.argv[1], int(sys.argv[2]))
